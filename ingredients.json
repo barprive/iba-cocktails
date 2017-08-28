@@ -175,6 +175,10 @@
     "abv": 0,
     "taste": null
   },
+  "Strawberry syrup": {
+    "abv": 0,
+    "taste": "sweet"
+  },
   "Syrup": {
     "abv": 0,
     "taste": "sweet"

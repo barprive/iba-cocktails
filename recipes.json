@@ -76,7 +76,8 @@
     "ingredient": "Vermouth",
     "label": "Dry vermouth"
   }, {
-    "special": "3 dashes Strawberry syrup"
+    "amount": "3 dashes",
+    "ingredient": "Strawberry syrup"
   }],
   "preparation": "Stir all ingredients with ice and strain into a cocktail glass.",
   "id": 4,
