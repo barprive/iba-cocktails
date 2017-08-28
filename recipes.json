@@ -1432,7 +1432,7 @@
   "id": 65,
   "slug": "dark-n-stormy"
 }, {
-  "name": "Ramos Fizz",
+  "name": "Ramos Gin Fizz",
   "glass": "highball",
   "category": "Longdrink",
   "ingredients": [{
@@ -1467,7 +1467,7 @@
   }],
   "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
   "id": 66,
-  "slug": "ramos-fizz"
+  "slug": "ramos-gin-fizz"
 }, {
   "name": "Russian Spring Punch",
   "glass": "highball",
