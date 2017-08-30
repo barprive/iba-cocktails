@@ -443,7 +443,8 @@
     "ingredient": "Vermouth",
     "label": "Red vermouth"
   }, {
-    "special": "1 dash Angostura Bitters"
+    "amount": "1 dash",
+    "ingredient": "Angostura Bitters"
   }],
   "garnish": "Cherry",
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass.",
@@ -551,7 +552,8 @@
     "amount": 1.5,
     "ingredient": "Lemon juice"
   }, {
-    "special": "2 dashes Sugar syrup"
+    "amount": "2 dashes",
+    "ingredient": "Sugar syrup"
   }, {
     "unit": "cl",
     "amount": 6,
@@ -817,7 +819,8 @@
     "amount": 4,
     "ingredient": "Aperol"
   }, {
-    "special": "Splash of Soda water"
+    "amount": "Splash of",
+    "ingredient": "Soda water"
   }],
   "garnish": "Half an orange slice",
   "preparation": "Build into an old-fashioned glass filled with ice. Top with a splash of soda water.",
@@ -1005,9 +1008,11 @@
     "amount": 6,
     "ingredient": "Pineapple juice"
   }, {
-    "special": "1 dash Lime juice"
+    "amount": "1 dash",
+    "ingredient": "Lime juice"
   }, {
-    "special": "Top with Prosecco"
+    "amount": "Top with",
+    "ingredient": "Prosecco"
   }],
   "id": 45,
   "slug": "barracuda"
@@ -1049,9 +1054,11 @@
     "amount": 3,
     "ingredient": "Orange juice"
   }, {
-    "special": "2 drops Absinthe"
+    "amount": "2 drops",
+    "ingredient": "Absinthe"
   }, {
-    "special": "2 drops Grenadine"
+    "amount": "2 drops",
+    "ingredient": "Grenadine"
   }],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 47,
@@ -1065,9 +1072,12 @@
     "amount": 6,
     "ingredient": "Gin"
   }, {
-    "special": "2 drops Peach Bitters"
+    "amount": "2 drops",
+    "ingredient": "Peach Bitters"
   }, {
-    "special": "2 Fresh mint leaves"
+    "amount": 2,
+    "ingredient": "Mint",
+    "label": "Mint leaves"
   }],
   "garnish": "Mint leaves",
   "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass.",

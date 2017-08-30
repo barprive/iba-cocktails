@@ -115,6 +115,10 @@
     "abv": 0,
     "taste": "sour"
   },
+  "Grenadine": {
+    "abv": 0,
+    "taste": "sour"
+  },
   "Hot coffee": {
     "abv": 0,
     "taste": "bitter"
@@ -155,6 +159,10 @@
     "abv": 0,
     "taste": "sweet"
   },
+  "Peach Bitters": {
+    "abv": 0,
+    "taste": null
+  }
   "Peach puree": {
     "abv": 0,
     "taste": "sweet"
@@ -196,6 +204,10 @@
     "taste": null
   },
   "Strawberry syrup": {
+    "abv": 0,
+    "taste": "sweet"
+  },
+  "Sugar syrup": {
     "abv": 0,
     "taste": "sweet"
   },
