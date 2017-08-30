@@ -96,7 +96,7 @@
     "ingredient": "Angostura Bitters"
   }, {
     "amount": "1 cube of",
-    "ingredient": "Sugar"
+    "ingredient": "White sugar"
   }, {
     "amount": "Few dashes"
     "ingredient": "Plain water"
@@ -120,13 +120,13 @@
     "ingredient": "Vermouth",
     "label": "Dry vermouth"
   }, {
-    "unit": "1/2 bar spoon",
+    "amount": "1/2 bar spoon",
     "ingredient": "Maraschino"
   }, {
-    "unit": "1/4 bar spoon",
+    "amount": "1/4 bar spoon",
     "ingredient": "Absinthe"
   }, {
-    "unit": "3 dashes",
+    "amount": "3 dashes",
     "ingredient": "Orange Bitters"
   }],
   "garnish": "Cherry and lemon twist",
@@ -147,11 +147,13 @@
     "amount": 3,
     "ingredient": "Lime juice"
   }, {
-    "special": "6 Mint sprigs"
+    "amount": "6 sprigs of",
+    "ingredient": "Mint"
   }, {
-    "special": "2 teaspoons white sugar"
+    "amount": "2 teaspoons",
+    "ingredient": "White sugar"
   }, {
-    "special": "Soda water"
+    "ingredient": "Soda water"
   }],
   "garnish": "Mint leaves and lemon slice",
   "preparation": "Muddle mint springs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw.",
@@ -1278,11 +1280,14 @@
     "ingredient": "Whiskey",
     "label": "Bourbon whiskey"
   }, {
-    "special": "4 fresh mint sprigs"
+    "amount": "4 sprigs of",
+    "ingredient": "Mint"
   }, {
-    "special": "1 teaspoon powdered sugar"
+    "amount": "1 teaspoon",
+    "ingredient": "Powdered sugar"
   }, {
-    "special": "2 teaspoons water"
+    "amount": "2 teaspoons"
+    "ingredient": "Plain water"
   }],
   "garnish": "Mint spring",
   "preparation": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost.",

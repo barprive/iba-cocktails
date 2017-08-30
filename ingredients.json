@@ -139,6 +139,10 @@
     "abv": 32,
     "taste": "sour"
   },
+  "Mint": {
+    "abv": 0,
+    "taste": null
+  },
   "Olive juice": {
     "abv": 0,
     "taste": "sour"
@@ -171,6 +175,10 @@
     "abv": 0,
     "taste": null
   },
+  "Powdered sugar": {
+    "abv": 0,
+    "taste": "sweet"
+  },
   "Prosecco": {
     "abv": 12,
     "taste": null
@@ -188,10 +196,6 @@
     "taste": null
   },
   "Strawberry syrup": {
-    "abv": 0,
-    "taste": "sweet"
-  },
-  "Sugar": {
     "abv": 0,
     "taste": "sweet"
   },
@@ -222,6 +226,10 @@
   "Whiskey": {
     "abv": 40,
     "taste": null
+  },
+  "White sugar": {
+    "abv": 0,
+    "taste": "sweet"
   },
   "White rum": {
     "abv": 40,
