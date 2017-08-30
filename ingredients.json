@@ -3,6 +3,10 @@
     "abv": 40,
     "taste": null
   },
+  "Angostura Bitters": {
+    "abv": 44.7,
+    "taste": null
+  },
   "Aperol": {
     "abv": 11,
     "taste": "bitter"
@@ -131,6 +135,10 @@
     "abv": 0,
     "taste": "sour"
   },
+  "Maraschino": {
+    "abv": 32,
+    "taste": "sour"
+  },
   "Olive juice": {
     "abv": 0,
     "taste": "sour"
@@ -159,6 +167,10 @@
     "abv": 40,
     "taste": null
   },
+  "Plain water": {
+    "abv": 0,
+    "taste": null
+  },
   "Prosecco": {
     "abv": 12,
     "taste": null
@@ -176,6 +188,10 @@
     "taste": null
   },
   "Strawberry syrup": {
+    "abv": 0,
+    "taste": "sweet"
+  },
+  "Sugar": {
     "abv": 0,
     "taste": "sweet"
   },

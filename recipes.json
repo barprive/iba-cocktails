@@ -92,11 +92,14 @@
     "ingredient": "Whiskey",
     "label": "Bourbon or rye whiskey"
   }, {
-    "special": "2 dashes Angostura Bitters"
+    "amount": "2 dashes",
+    "ingredient": "Angostura Bitters"
   }, {
-    "special": "1 sugar cube"
+    "amount": "1 cube of",
+    "ingredient": "Sugar"
   }, {
-    "special": "Few dashes plain water"
+    "amount": "Few dashes"
+    "ingredient": "Plain water"
   }],
   "garnish": "Orange slice and cherry",
   "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky.",
@@ -117,11 +120,14 @@
     "ingredient": "Vermouth",
     "label": "Dry vermouth"
   }, {
-    "special": "1/2 bar spoon Maraschino"
+    "unit": "1/2 bar spoon",
+    "ingredient": "Maraschino"
   }, {
-    "special": "1/4 bar spoon Absinthe"
+    "unit": "1/4 bar spoon",
+    "ingredient": "Absinthe"
   }, {
-    "special": "3 dashes Orange Bitters"
+    "unit": "3 dashes",
+    "ingredient": "Orange Bitters"
   }],
   "garnish": "Cherry and lemon twist",
   "preparation": "Stir all ingredients with ice and strain into cocktail glass.",
