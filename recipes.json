@@ -172,7 +172,9 @@
     "amount": 12,
     "ingredient": "Ginger Ale"
   }, {
-    "special": "Dash of Angostura bitters (optional)"
+    "amount": "1 dash",
+    "ingredient": "Angostura Bitters"
+    "label": "Angustora Bitters (optional)"
   }],
   "garnish": "Lemon twist",
   "preparation": "Build into highball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters.",
@@ -209,7 +211,8 @@
     "ingredient": "Syrup",
     "label": "Sugar syrup"
   }, {
-    "special": "3 to 4 dashes Angostura bitters"
+    "amount": "3 to 4 dashes",
+    "ingredient": "Angostura Bitters"
   }],
   "garnish": "Pineapple slice and a cherry",
   "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake. Pour into large glass, filled with ice. Add Angostura bitters, “on top”.",
@@ -254,7 +257,9 @@
     "ingredient": "Syrup",
     "label": "Sugar syrup"
   }, {
-    "special": "1 raw egg white (small egg)"
+    "amount": 1,
+    "ingredient": "Egg",
+    "label": "Egg white"
   }],
   "preparation": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top.",
   "id": 11,
@@ -293,7 +298,8 @@
     "ingredient": "Syrup",
     "label": "Gomme syrup"
   }, {
-    "special": "1 dash of Cola"
+    "amount": "1 dash of",
+    "ingredient": "Cola"
   }],
   "garnish": "Lemon twist",
   "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Serve with straw.",
@@ -317,7 +323,9 @@
     "amount": 1.5,
     "ingredient": "Lemon juice"
   }, {
-    "special": "Few drops of Egg White"
+    "amount": "Few drops of",
+    "ingredient": "Egg",
+    "label": "Egg white"
   }],
   "preparation": "Shake with ice cubes. Strain into cocktail glass.",
   "id": 13,
@@ -456,7 +464,8 @@
   }, {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Egg yolk"
+    "ingredient": "Egg",
+    "label": "Egg yolk"
   }],
   "preparation": "Shake with ice cubes. Strain into cocktail glass. Sprinkle with fresh ground nutmeg.",
   "id": 20,
