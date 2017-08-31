@@ -131,6 +131,10 @@
     "abv": 0,
     "taste": "sweet"
   },
+  "Honey": {
+    "abv": 0,
+    "taste": "sweet"
+  },
   "Hot coffee": {
     "abv": 0,
     "taste": "bitter"
@@ -169,6 +173,10 @@
   },
   "Orange Bitters": {
     "abv": 40,
+    "taste": null
+  },
+  "Orange flower water": {
+    "abv": 0,
     "taste": null
   },
   "Orange juice": {
@@ -223,6 +231,10 @@
     "abv": 20,
     "taste": null
   },
+  "Salt": {
+    "abv": 0,
+    "taste": "salty"
+  },
   "Soda water": {
     "abv": 0,
     "taste": null
@@ -254,6 +266,10 @@
   "Triple Sec": {
     "abv": 40,
     "taste": "sweet"
+  },
+  "Vanilla extract": {
+    "abv": 0,
+    "taste": null
   },
   "Vermouth": {
     "abv": 17,

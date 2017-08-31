@@ -513,7 +513,9 @@
   }, {
     "special": "Sugar syrup (according to individual preference of sweetness)"
   }, {
-    "special": "1 short strong Espresso"
+    "special": "1 short",
+    "ingredient": "Hot coffee",
+    "label": "Strong Espresso"
   }],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 22,
@@ -1497,13 +1499,17 @@
     "amount": 6,
     "ingredient": "Cream"
   }, {
-    "special": "1 Egg white"
+    "amount": 1,
+    "ingredient": "Egg",
+    "label": "Egg white"
   }, {
-    "special": "3 dashes Orange flower water"
+    "amount": "3 dashes",
+    "ingredient": "Orange flower water"
   }, {
-    "special": "2 drops Vanilla extract"
+    "amount": "2 drops",
+    "ingredient": "Vanilla extract"
   }, {
-    "special": "Soda water"
+    "ingredient": "Soda water"
   }],
   "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
   "id": 66,
@@ -1683,15 +1689,18 @@
     "amount": 1,
     "ingredient": "Lime juice"
   }, {
-    "special": "1 teaspoon clear honey"
+    "amount": "1 teaspoon",
+    "ingredient": "Honey",
+    "label": "Clear honey"
   }, {
     "special": "Half slice onion finely chopped"
   }, {
     "special": "Few slices fresh red hot chili peppers"
   }, {
-    "special": "Few drops Worchestershire sauce"
+    "amount": "Few drops",
+    "ingredient": "Worcestershire sauce"
   }, {
-    "special": "Salt"
+    "ingredient": "Salt"
   }],
   "garnish": "Lime wedge and a green or red chili",
   "preparation": "Shake with ice cubes. Strain into a highball glass, filled with ice.",
