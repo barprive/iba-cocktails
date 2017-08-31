@@ -3,6 +3,10 @@
     "abv": 40,
     "taste": null
   },
+  "Agave nectar": {
+    "abv": 0,
+    "taste": null
+  },
   "Angostura Bitters": {
     "abv": 44.7,
     "taste": null
@@ -19,6 +23,10 @@
     "abv": 40,
     "taste": null
   },
+  "Brown sugar": {
+    "abv": 0,
+    "taste": "sweet"
+  },
   "Cachaca": {
     "abv": 40,
     "taste": null
@@ -29,6 +37,10 @@
   },
   "Campari": {
     "abv": 25,
+    "taste": null
+  },
+  "Celery salt": {
+    "abv": 0,
     "taste": null
   },
   "Champagne": {
@@ -117,7 +129,7 @@
   },
   "Grenadine": {
     "abv": 0,
-    "taste": "sour"
+    "taste": "sweet"
   },
   "Hot coffee": {
     "abv": 0,
@@ -134,6 +146,10 @@
   "Lillet Blonde": {
     "abv": 15,
     "taste": null
+  },
+  "Lime": {
+    "abv": 0,
+    "taste": "sour"
   },
   "Lime juice": {
     "abv": 0,
@@ -162,13 +178,21 @@
   "Peach Bitters": {
     "abv": 0,
     "taste": null
-  }
+  },
   "Peach puree": {
     "abv": 0,
     "taste": "sweet"
   },
   "Peach schnapps": {
     "abv": 40,
+    "taste": "sweet"
+  },
+  "Pepper": {
+    "abv": 0,
+    "taste": null
+  },
+  "Peychaud's Bitters": {
+    "abv": 0,
     "taste": "sweet"
   },
   "Pineapple juice": {
@@ -215,6 +239,10 @@
     "abv": 0,
     "taste": "sweet"
   },
+  "Tabasco": {
+    "abv": 0,
+    "taste": null
+  },
   "Tequila": {
     "abv": 40,
     "taste": null
@@ -244,6 +272,10 @@
     "taste": "sweet"
   },
   "White rum": {
+    "abv": 40,
+    "taste": null
+  },
+  "Worcestershire Sauce": {
     "abv": 40,
     "taste": null
   }

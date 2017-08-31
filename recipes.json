@@ -947,13 +947,14 @@
     "amount": 1.5,
     "ingredient": "Lemon juice"
   }, {
-    "special": "2 to 3 dashes of Worcestershire Sauce"
+    "amount": "2 to 3 dashes of",
+    "ingredient": "Worcestershire Sauce"
   }, {
-    "special": "Tabasco"
+    "ingredient": "Tabasco"
   }, {
-    "special": "Celery salt"
+    "ingredient": "Celery salt"
   }, {
-    "special": "Pepper"
+    "ingredient": "Pepper"
   }],
   "garnish": "Celery and optionally lemon wedge",
   "preparation": "Stir gently, pour all ingredients into highball glass.",
@@ -1121,7 +1122,8 @@
     "amount": 3,
     "ingredient": "Cream"
   }, {
-    "special": "1 teaspoon of brown sugar"
+    "amount": "1 teaspoon of",
+    "ingredient": "Brown sugar"
   }],
   "preparation": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top.",
   "id": 50,
@@ -1139,9 +1141,11 @@
     "amount": 1,
     "ingredient": "Absinthe"
   }, {
-    "special": "1 sugar cube"
+    "amount": "1 cube of",
+    "ingredient": "White sugar"
   }, {
-    "special": "2 dashes Peychaud’s bitters"
+    "amount": "2 dashes",
+    "ingredient": "Peychaud's Bitters"
   }],
   "garnish": "Lemon twist",
   "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain.",
@@ -1161,7 +1165,8 @@
     "ingredient": "Vermouth",
     "label": "Red vermouth"
   }, {
-    "special": "A splash of soda water"
+    "amount": "A splash of",
+    "ingredient": "Soda water"
   }],
   "garnish": "Half an orange slice",
   "preparation": "Build into old fashioned glass filled with ice cubes. Add a splash of soda water.",
@@ -1202,7 +1207,8 @@
     "ingredient": "Syrup",
     "label": "Grenadine"
   }, {
-    "special": "1 dash Angostura bitters"
+    "amount": "1 dash",
+    "ingredient": "Angostura Bitters"
   }],
   "garnish": "Pineapple slice and a cherry",
   "preparation": "Shake with ice cubes. Strain into highball glass.",
@@ -1240,7 +1246,8 @@
     "amount": 0.5,
     "ingredient": "Lime juice"
   }, {
-    "special": "1 slice lime in a highball glass"
+    "amount": "1 slice",
+    "ingredient": "Lime"
   }],
   "garnish": "Lime slice",
   "preparation": "Combine the vodka and ginger beer. Add lime juice.",
@@ -1325,7 +1332,8 @@
     "amount": 1.5,
     "ingredient": "Lime juice"
   }, {
-    "special": "2 bar spoons of Agave nectar"
+    "amount": "2 bar spoons",
+    "ingredient": "Agave nectar"
   }],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 59,
@@ -1385,9 +1393,11 @@
     "amount": 1,
     "ingredient": "Cognac"
   }, {
-    "special": "2 dashes Angostura Bitters"
+    "amount": "2 dashes",
+    "ingredient": "Angostura Bitters"
   }, {
-    "special": "1 sugar cube"
+    "amount": "1 cube of",
+    "ingredient": "White sugar"
   }],
   "garnish": "Orange slice and a cherry",
   "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne.",
