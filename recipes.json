@@ -98,7 +98,7 @@
     "amount": "1 cube of",
     "ingredient": "White sugar"
   }, {
-    "amount": "Few dashes"
+    "amount": "Few dashes",
     "ingredient": "Plain water"
   }],
   "garnish": "Orange slice and cherry",
@@ -173,7 +173,7 @@
     "ingredient": "Ginger Ale"
   }, {
     "amount": "1 dash",
-    "ingredient": "Angostura Bitters"
+    "ingredient": "Angostura Bitters",
     "label": "Angustora Bitters (optional)"
   }],
   "garnish": "Lemon twist",
@@ -1314,7 +1314,7 @@
     "amount": "1 teaspoon",
     "ingredient": "Powdered sugar"
   }, {
-    "amount": "2 teaspoons"
+    "amount": "2 teaspoons",
     "ingredient": "Plain water"
   }],
   "garnish": "Mint spring",
