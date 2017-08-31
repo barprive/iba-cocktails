@@ -511,9 +511,9 @@
     "ingredient": "Coffee liqueur",
     "label": "Kahlúa"
   }, {
-    "special": "Sugar syrup (according to individual preference of sweetness)"
+    "ingredient": "Sugar syrup"
   }, {
-    "special": "1 short",
+    "amount": "1 short",
     "ingredient": "Hot coffee",
     "label": "Strong Espresso"
   }],
@@ -1661,11 +1661,13 @@
     "amount": 5,
     "ingredient": "Cachaca"
   }, {
-    "special": "half fresh lime cut into 4 wedges"
+    "amount": "1/2",
+    "ingredient": "Lime"
   }, {
-    "special": "2 teaspoon sugar"
+    "amount": "2 teaspoon",
+    "ingredient": "White sugar"
   }],
-  "preparation": "Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca (note:Caipiroska- use Vodka instead of Cachaca).",
+  "preparation": "Cut the half lime in 4 wedges. Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca.",
   "id": 73,
   "slug": "caipirinha"
 }, {
@@ -1693,9 +1695,11 @@
     "ingredient": "Honey",
     "label": "Clear honey"
   }, {
-    "special": "Half slice onion finely chopped"
+    "amount": "1 half slice",
+    "ingredient": "Onion"
   }, {
-    "special": "Few slices fresh red hot chili peppers"
+    "amount": "Few slices",
+    "ingredient": "Red hot chili peppers"
   }, {
     "amount": "Few drops",
     "ingredient": "Worcestershire sauce"
@@ -1703,7 +1707,7 @@
     "ingredient": "Salt"
   }],
   "garnish": "Lime wedge and a green or red chili",
-  "preparation": "Shake with ice cubes. Strain into a highball glass, filled with ice.",
+  "preparation": "Chop finely the onion finely. Shake with ice cubes. Strain into a highball glass, filled with ice.",
   "id": 74,
   "slug": "vampiro"
 }, {

@@ -171,6 +171,10 @@
     "abv": 0,
     "taste": "sour"
   },
+  "Onion": {
+    "abv": 0,
+    "taste": null
+  },
   "Orange Bitters": {
     "abv": 40,
     "taste": null
