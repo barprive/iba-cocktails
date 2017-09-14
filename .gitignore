@@ -1,0 +1,5 @@
+node_modules/
+*.orig
+npm-debug.log
+gen_cocktails.json
+gen_ingredients.json

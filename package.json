@@ -1,0 +1,29 @@
+{
+  "name": "iba-cocktails",
+  "version": "1.0.0",
+  "description": "Cocktail list for barprive.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/barprive/iba-cocktails.git"
+  },
+  "keywords": [
+    "cocktails",
+    "recipes",
+    "ingredients",
+    "database"
+  ],
+  "author": "Olivier Brunel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/barprive/iba-cocktails/issues"
+  },
+  "homepage": "https://github.com/barprive/iba-cocktails#readme",
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
