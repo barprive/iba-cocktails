@@ -19,7 +19,7 @@ var gen_recipes;
 var gen_ingredients;
 
 //// Go get all the ingredients in duplicate
-var i = 0;
+var i = 1;
 var gen_ingredients = [];
 // Parse every recipe
 _.each(recipes, recipe => {
