@@ -23,7 +23,8 @@
   "garnish": "Lemon twist",
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 1,
-  "slug": "vesper"
+  "slug": "vesper",
+  "tags": []
  },
  {
   "name": "Bacardi",
@@ -50,7 +51,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
   "id": 2,
-  "slug": "bacardi"
+  "slug": "bacardi",
+  "tags": []
  },
  {
   "name": "Negroni",
@@ -77,7 +79,8 @@
   "garnish": "Half an orange slice",
   "preparation": "Build into old-fashioned glass filled with ice. Stir gently.",
   "id": 3,
-  "slug": "negroni"
+  "slug": "negroni",
+  "tags": []
  },
  {
   "name": "Rose",
@@ -101,7 +104,8 @@
   ],
   "preparation": "Stir all ingredients with ice and strain into a cocktail glass.",
   "id": 4,
-  "slug": "rose"
+  "slug": "rose",
+  "tags": []
  },
  {
   "name": "Old Fashioned",
@@ -130,7 +134,8 @@
   "garnish": "Orange slice and cherry",
   "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky.",
   "id": 5,
-  "slug": "old-fashioned"
+  "slug": "old-fashioned",
+  "tags": []
  },
  {
   "name": "Tuxedo",
@@ -165,7 +170,8 @@
   "garnish": "Cherry and lemon twist",
   "preparation": "Stir all ingredients with ice and strain into cocktail glass.",
   "id": 6,
-  "slug": "tuxedo"
+  "slug": "tuxedo",
+  "tags": []
  },
  {
   "name": "Mojito",
@@ -198,7 +204,8 @@
   "garnish": "Mint leaves and lemon slice",
   "preparation": "Muddle mint springs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw.",
   "id": 7,
-  "slug": "mojito"
+  "slug": "mojito",
+  "tags": []
  },
  {
   "name": "Horse's Neck",
@@ -224,7 +231,8 @@
   "garnish": "Lemon twist",
   "preparation": "Build into highball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters.",
   "id": 8,
-  "slug": "horses-neck"
+  "slug": "horses-neck",
+  "tags": []
  },
  {
   "name": "Planter's Punch",
@@ -271,7 +279,8 @@
   "garnish": "Pineapple slice and a cherry",
   "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake. Pour into large glass, filled with ice. Add Angostura bitters, “on top”.",
   "id": 9,
-  "slug": "planters-punch"
+  "slug": "planters-punch",
+  "tags": []
  },
  {
   "name": "Sea Breeze",
@@ -297,7 +306,8 @@
   "garnish": "Lime wedge",
   "preparation": "Build all ingredients in a rock glass filled with ice.",
   "id": 10,
-  "slug": "sea-breeze"
+  "slug": "sea-breeze",
+  "tags": []
  },
  {
   "name": "Pisco Sour",
@@ -328,7 +338,8 @@
   ],
   "preparation": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top.",
   "id": 11,
-  "slug": "pisco-sour"
+  "slug": "pisco-sour",
+  "tags": []
  },
  {
   "name": "Long Island Iced Tea",
@@ -379,7 +390,8 @@
   "garnish": "Lemon twist",
   "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Serve with straw.",
   "id": 12,
-  "slug": "long-island-iced-tea"
+  "slug": "long-island-iced-tea",
+  "tags": []
  },
  {
   "name": "Clover Club",
@@ -410,7 +422,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass.",
   "id": 13,
-  "slug": "clover-club"
+  "slug": "clover-club",
+  "tags": []
  },
  {
   "name": "Angel Face",
@@ -435,7 +448,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into a cocktail glass.",
   "id": 14,
-  "slug": "angel-face"
+  "slug": "angel-face",
+  "tags": []
  },
  {
   "name": "Mimosa",
@@ -456,7 +470,8 @@
   "garnish": "Optional orange twist",
   "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: a Buck’s Fizz and a Mimosa are the same drink.",
   "id": 15,
-  "slug": "mimosa"
+  "slug": "mimosa",
+  "tags": []
  },
  {
   "name": "Whiskey Sour",
@@ -484,7 +499,8 @@
   "garnish": "Half an orange slice and cherry",
   "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.",
   "id": 16,
-  "slug": "whiskey-sour"
+  "slug": "whiskey-sour",
+  "tags": []
  },
  {
   "name": "Screwdriver",
@@ -505,7 +521,8 @@
   "garnish": "Orange slice",
   "preparation": "Build into a highball glass filled with ice. Stir gently.",
   "id": 17,
-  "slug": "screwdriver"
+  "slug": "screwdriver",
+  "tags": []
  },
  {
   "name": "Cuba Libre",
@@ -531,7 +548,8 @@
   "garnish": "Lime wedge",
   "preparation": "Build all ingredients in a highball glass filled with ice.",
   "id": 18,
-  "slug": "cuba-libre"
+  "slug": "cuba-libre",
+  "tags": []
  },
  {
   "name": "Manhattan",
@@ -558,7 +576,8 @@
   "garnish": "Cherry",
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass.",
   "id": 19,
-  "slug": "manhattan"
+  "slug": "manhattan",
+  "tags": []
  },
  {
   "name": "Porto Flip",
@@ -584,7 +603,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass. Sprinkle with fresh ground nutmeg.",
   "id": 20,
-  "slug": "porto-flip"
+  "slug": "porto-flip",
+  "tags": []
  },
  {
   "name": "Gin Fizz",
@@ -616,7 +636,8 @@
   "garnish": "Lemon slice",
   "preparation": "Shake all ingredients with ice cubes, except soda water. Pour into tumbler. Top with soda water.",
   "id": 21,
-  "slug": "gin-fizz"
+  "slug": "gin-fizz",
+  "tags": []
  },
  {
   "name": "Espresso Martini",
@@ -645,7 +666,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 22,
-  "slug": "espresso-martini"
+  "slug": "espresso-martini",
+  "tags": []
  },
  {
   "name": "Margarita",
@@ -671,7 +693,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe).",
   "id": 23,
-  "slug": "margarita"
+  "slug": "margarita",
+  "tags": []
  },
  {
   "name": "French 75",
@@ -700,7 +723,8 @@
   ],
   "preparation": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently.",
   "id": 24,
-  "slug": "french-75"
+  "slug": "french-75",
+  "tags": []
  },
  {
   "name": "Yellow Bird",
@@ -730,7 +754,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 25,
-  "slug": "yellow-bird"
+  "slug": "yellow-bird",
+  "tags": []
  },
  {
   "name": "Pina Colada",
@@ -756,7 +781,8 @@
   "garnish": "Pineapple slice and a cherry",
   "preparation": "Blend all the ingredients with ice in a electric blender, pour into a large goblet or Hurricane glass and serve with straws.",
   "id": 26,
-  "slug": "pina-colada"
+  "slug": "pina-colada",
+  "tags": []
  },
  {
   "name": "Aviation",
@@ -782,7 +808,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 27,
-  "slug": "aviation"
+  "slug": "aviation",
+  "tags": []
  },
  {
   "name": "Bellini",
@@ -802,7 +829,8 @@
   ],
   "preparation": "Pour peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)",
   "id": 28,
-  "slug": "bellini"
+  "slug": "bellini",
+  "tags": []
  },
  {
   "name": "Grasshopper",
@@ -829,7 +857,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
   "id": 29,
-  "slug": "grasshopper"
+  "slug": "grasshopper",
+  "tags": []
  },
  {
   "name": "Tequila Sunrise",
@@ -856,7 +885,8 @@
   "garnish": "Orange slice and a cherry",
   "preparation": "Build tequila and orange juice into highball with ice cubes. Add a splash of grenadine to create sunrise effect. Do not stir.",
   "id": 30,
-  "slug": "tequila-sunrise"
+  "slug": "tequila-sunrise",
+  "tags": []
  },
  {
   "name": "Daiquiri",
@@ -882,7 +912,8 @@
   ],
   "preparation": "Shake and strain into a cocktail glass.",
   "id": 31,
-  "slug": "daiquiri"
+  "slug": "daiquiri",
+  "tags": []
  },
  {
   "name": "Rusty Nail",
@@ -904,7 +935,8 @@
   "garnish": "Lemon twist",
   "preparation": "Build into old-fashioned glass filled with ice. Stir gently.",
   "id": 32,
-  "slug": "rusty-nail"
+  "slug": "rusty-nail",
+  "tags": []
  },
  {
   "name": "B52",
@@ -932,7 +964,8 @@
   ],
   "preparation": "Layer ingredients one at a time starting with Kahlúa, followed by Baileys Irish Cream and top with Grand Marnier. Flame the Grand Marnier, serve while the flame is still on, accompanied with a straw on side plate.",
   "id": 33,
-  "slug": "b52"
+  "slug": "b52",
+  "tags": []
  },
  {
   "name": "Stinger",
@@ -953,7 +986,8 @@
   ],
   "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass.",
   "id": 34,
-  "slug": "stinger"
+  "slug": "stinger",
+  "tags": []
  },
  {
   "name": "Golden Dream",
@@ -983,7 +1017,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
   "id": 35,
-  "slug": "golden-dream"
+  "slug": "golden-dream",
+  "tags": []
  },
  {
   "name": "God Mother",
@@ -1002,7 +1037,8 @@
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
   "id": 36,
-  "slug": "god-mother"
+  "slug": "god-mother",
+  "tags": []
  },
  {
   "name": "Spritz Veneziano",
@@ -1027,7 +1063,8 @@
   "garnish": "Half an orange slice",
   "preparation": "Build into an old-fashioned glass filled with ice. Top with a splash of soda water.",
   "id": 37,
-  "slug": "spritz-veneziano"
+  "slug": "spritz-veneziano",
+  "tags": []
  },
  {
   "name": "Bramble",
@@ -1059,7 +1096,8 @@
   "garnish": "Lemon slice and two blackberries",
   "preparation": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion.",
   "id": 38,
-  "slug": "bramble"
+  "slug": "bramble",
+  "tags": []
  },
  {
   "name": "Alexander",
@@ -1084,7 +1122,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass. Sprinkle with fresh ground nutmeg.",
   "id": 39,
-  "slug": "alexander"
+  "slug": "alexander",
+  "tags": []
  },
  {
   "name": "Lemon Drop Martini",
@@ -1111,7 +1150,8 @@
   "garnish": "Lemon slice",
   "preparation": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
   "id": 40,
-  "slug": "lemon-drop-martini"
+  "slug": "lemon-drop-martini",
+  "tags": []
  },
  {
   "name": "French Martini",
@@ -1136,7 +1176,8 @@
   ],
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
   "id": 41,
-  "slug": "french-martini"
+  "slug": "french-martini",
+  "tags": []
  },
  {
   "name": "Black Russian",
@@ -1156,7 +1197,8 @@
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently. Note: for White Russian, float fresh cream on the top and stir gently.",
   "id": 42,
-  "slug": "black-russian"
+  "slug": "black-russian",
+  "tags": []
  },
  {
   "name": "Bloody Mary",
@@ -1195,7 +1237,8 @@
   "garnish": "Celery and optionally lemon wedge",
   "preparation": "Stir gently, pour all ingredients into highball glass.",
   "id": 43,
-  "slug": "bloody-mary"
+  "slug": "bloody-mary",
+  "tags": []
  },
  {
   "name": "Mai-tai",
@@ -1233,7 +1276,8 @@
   "garnish": "Pineapple spear, mint leaves and lime wedge",
   "preparation": "Shake and strain into highball glass. Serve with straw.",
   "id": 44,
-  "slug": "mai-tai"
+  "slug": "mai-tai",
+  "tags": []
  },
  {
   "name": "Barracuda",
@@ -1266,7 +1310,8 @@
    }
   ],
   "id": 45,
-  "slug": "barracuda"
+  "slug": "barracuda",
+  "tags": []
  },
  {
   "name": "Sex on the Beach",
@@ -1297,7 +1342,8 @@
   "garnish": "Orange slice",
   "preparation": "Build all ingredients in a highball glass filled with ice.",
   "id": 46,
-  "slug": "sex-on-the-beach"
+  "slug": "sex-on-the-beach",
+  "tags": []
  },
  {
   "name": "Monkey Gland",
@@ -1325,7 +1371,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 47,
-  "slug": "monkey-gland"
+  "slug": "monkey-gland",
+  "tags": []
  },
  {
   "name": "Derby",
@@ -1350,7 +1397,8 @@
   "garnish": "Mint leaves",
   "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass.",
   "id": 48,
-  "slug": "derby"
+  "slug": "derby",
+  "tags": []
  },
  {
   "name": "Sidecar",
@@ -1375,7 +1423,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass.",
   "id": 49,
-  "slug": "sidecar"
+  "slug": "sidecar",
+  "tags": []
  },
  {
   "name": "Irish Coffee",
@@ -1405,7 +1454,8 @@
   ],
   "preparation": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top.",
   "id": 50,
-  "slug": "irish-coffee"
+  "slug": "irish-coffee",
+  "tags": []
  },
  {
   "name": "Sazerac",
@@ -1434,7 +1484,8 @@
   "garnish": "Lemon twist",
   "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain.",
   "id": 51,
-  "slug": "sazerac"
+  "slug": "sazerac",
+  "tags": []
  },
  {
   "name": "Americano",
@@ -1460,7 +1511,8 @@
   "garnish": "Half an orange slice",
   "preparation": "Build into old fashioned glass filled with ice cubes. Add a splash of soda water.",
   "id": 52,
-  "slug": "americano"
+  "slug": "americano",
+  "tags": []
  },
  {
   "name": "Singapore Sling",
@@ -1512,7 +1564,8 @@
   "garnish": "Pineapple slice and a cherry",
   "preparation": "Shake with ice cubes. Strain into highball glass.",
   "id": 53,
-  "slug": "singapore-sling"
+  "slug": "singapore-sling",
+  "tags": []
  },
  {
   "name": "French Connection",
@@ -1531,7 +1584,8 @@
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
   "id": 54,
-  "slug": "french-connection"
+  "slug": "french-connection",
+  "tags": []
  },
  {
   "name": "Moscow Mule",
@@ -1561,7 +1615,8 @@
   "garnish": "Lime slice",
   "preparation": "Combine the vodka and ginger beer. Add lime juice.",
   "id": 55,
-  "slug": "moscow-mule"
+  "slug": "moscow-mule",
+  "tags": []
  },
  {
   "name": "John Collins",
@@ -1593,7 +1648,8 @@
   "garnish": "Lemon slice and a cherry",
   "preparation": "Build into highball glass filled with ice. Stir gently. Add a dash of Angostura bitters. (Note: Use Old Tom Gin for Tom Collins)",
   "id": 56,
-  "slug": "john-collins"
+  "slug": "john-collins",
+  "tags": []
  },
  {
   "name": "Kir",
@@ -1614,7 +1670,8 @@
   ],
   "preparation": "Pour Créme de Cassis into glass, top up with white wine. For Kir Royal: Use champagne instead of white wine.",
   "id": 57,
-  "slug": "kir"
+  "slug": "kir",
+  "tags": []
  },
  {
   "name": "Mint Julep",
@@ -1643,7 +1700,8 @@
   "garnish": "Mint spring",
   "preparation": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost.",
   "id": 58,
-  "slug": "mint-julep"
+  "slug": "mint-julep",
+  "tags": []
  },
  {
   "name": "Tommy's Margarita",
@@ -1667,7 +1725,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 59,
-  "slug": "tommys-margarita"
+  "slug": "tommys-margarita",
+  "tags": []
  },
  {
   "name": "Paradise",
@@ -1692,7 +1751,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
   "id": 60,
-  "slug": "paradise"
+  "slug": "paradise",
+  "tags": []
  },
  {
   "name": "Dirty Martini",
@@ -1719,7 +1779,8 @@
   "garnish": "Green olive",
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass.",
   "id": 61,
-  "slug": "dirty-martini"
+  "slug": "dirty-martini",
+  "tags": []
  },
  {
   "name": "Champagne Cocktail",
@@ -1748,7 +1809,8 @@
   "garnish": "Orange slice and a cherry",
   "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne.",
   "id": 62,
-  "slug": "champagne-cocktail"
+  "slug": "champagne-cocktail",
+  "tags": []
  },
  {
   "name": "Mary Pickford",
@@ -1780,7 +1842,8 @@
   ],
   "preparation": "Shake and strain into a chilled large cocktail glass.",
   "id": 63,
-  "slug": "mary-pickford"
+  "slug": "mary-pickford",
+  "tags": []
  },
  {
   "name": "Hemingway Special",
@@ -1811,7 +1874,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into a double cocktail glass.",
   "id": 64,
-  "slug": "hemingway-special"
+  "slug": "hemingway-special",
+  "tags": []
  },
  {
   "name": "Dark 'n' Stormy",
@@ -1832,7 +1896,8 @@
   "garnish": "Lime wedge",
   "preparation": "Build into highball glass filled with ice. Add rum first and top it with ginger beer.",
   "id": 65,
-  "slug": "dark-n-stormy"
+  "slug": "dark-n-stormy",
+  "tags": []
  },
  {
   "name": "Ramos Gin Fizz",
@@ -1884,7 +1949,8 @@
   ],
   "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
   "id": 66,
-  "slug": "ramos-gin-fizz"
+  "slug": "ramos-gin-fizz",
+  "tags": []
  },
  {
   "name": "Russian Spring Punch",
@@ -1917,7 +1983,8 @@
   "garnish": "Lemon slice and a blackberry",
   "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine.",
   "id": 67,
-  "slug": "russian-spring-punch"
+  "slug": "russian-spring-punch",
+  "tags": []
  },
  {
   "name": "God Father",
@@ -1937,7 +2004,8 @@
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
   "id": 68,
-  "slug": "god-father"
+  "slug": "god-father",
+  "tags": []
  },
  {
   "name": "Cosmopolitan",
@@ -1970,7 +2038,8 @@
   "garnish": "Lime slice",
   "preparation": "Shake with ice cubes. Strain into a large cocktail glass.",
   "id": 69,
-  "slug": "cosmopolitan"
+  "slug": "cosmopolitan",
+  "tags": []
  },
  {
   "name": "Dry Martini",
@@ -1991,7 +2060,8 @@
   ],
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
   "id": 70,
-  "slug": "dry-martini"
+  "slug": "dry-martini",
+  "tags": []
  },
  {
   "name": "Between the Sheets",
@@ -2021,7 +2091,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
   "id": 71,
-  "slug": "between-the-sheets"
+  "slug": "between-the-sheets",
+  "tags": []
  },
  {
   "name": "Casino",
@@ -2054,7 +2125,8 @@
   "garnish": "Lemon twist and a cherry",
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
   "id": 72,
-  "slug": "casino"
+  "slug": "casino",
+  "tags": []
  },
  {
   "name": "Caipirinha",
@@ -2077,7 +2149,8 @@
   ],
   "preparation": "Cut the half lime in 4 wedges. Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca.",
   "id": 73,
-  "slug": "caipirinha"
+  "slug": "caipirinha",
+  "tags": []
  },
  {
   "name": "Vampiro",
@@ -2128,7 +2201,8 @@
   "garnish": "Lime wedge and a green or red chili",
   "preparation": "Chop finely the onion finely. Shake with ice cubes. Strain into a highball glass, filled with ice.",
   "id": 74,
-  "slug": "vampiro"
+  "slug": "vampiro",
+  "tags": []
  },
  {
   "name": "Kamikaze",
@@ -2153,7 +2227,8 @@
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "id": 75,
-  "slug": "kamikaze"
+  "slug": "kamikaze",
+  "tags": []
  },
  {
   "name": "White Lady",
@@ -2178,7 +2253,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into large cocktail glass.",
   "id": 76,
-  "slug": "white-lady"
+  "slug": "white-lady",
+  "tags": []
  },
  {
   "name": "Harvey Wallbanger",
@@ -2204,6 +2280,353 @@
   "garnish": "Orance slice and a cherry",
   "preparation": "Build vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top.",
   "id": 77,
-  "slug": "harvey-wallbanger"
+  "slug": "harvey-wallbanger",
+  "tags": []
+ },
+ {
+  "name": "Zombie Punch",
+  "glass": "bowl",
+  "category": "Punch",
+  "ingredients": [
+   {
+    "amount": "10 tbsp of",
+    "ingredient": 281
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 282
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 283
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 284
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 285,
+    "label": "Demerara Rum (preferably 151 proof)"
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 286
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 287
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": 288
+   },
+   {
+    "amount": "8-10 dashes bitter",
+    "ingredient": 282
+   },
+   {
+    "amount": 1,
+    "ingredient": 290
+   },
+   {
+    "amount": 1,
+    "ingredient": 291
+   },
+   {
+    "amount": 1,
+    "ingredient": 197
+   },
+   {
+    "amount": "1 large",
+    "ingredient": 293,
+    "label": "Pumpkin (optional)"
+   }
+  ],
+  "preparation": "Place the brown sugar and the lemon juice into a jug and stir to dissolve. Place the lemon mixture and all the other ingredients into a large bowl and stir well. Either serve the punch in the bowl or pour into the hollowed-out pumpkin. Add the lemon and lime pieces and serve.",
+  "id": 78,
+  "slug": "zombie-punch",
+  "tags": [
+   "halloween",
+   "punch"
+  ]
+ },
+ {
+  "name": "Witchcraft",
+  "glass": "highball",
+  "category": "Punch",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": 25,
+    "ingredient": 294
+   },
+   {
+    "unit": "tbsp",
+    "amount": 1,
+    "ingredient": 282
+   },
+   {
+    "unit": "tsp",
+    "amount": 2,
+    "ingredient": 296
+   },
+   {
+    "unit": "ml",
+    "amount": 25,
+    "ingredient": 297
+   },
+   {
+    "unit": "ml",
+    "amount": 25,
+    "ingredient": 298,
+    "label": "Fresh Apple Juice"
+   }
+  ],
+  "garnish": "One peeled lychee, 1/2 tsp of strawberry jam and one blueberry.",
+  "preparation": "Place the vodka, lemon juice, vanilla syrup, blackberry liqueur and apple juice into a cocktail shaker filled with ice and shake well. Pour into a cocktail glass. To garnish, cut a small hole into the lychee. Fill with strawberry jam, then stick the blueberry into the jam to create an 'eyeball'. Float the 'eyeball' in the cocktail and serve.",
+  "id": 79,
+  "slug": "witchcraft",
+  "tags": [
+   "halloween",
+   "punch"
+  ]
+ },
+ {
+  "name": "Skull Punch",
+  "glass": "bowl",
+  "category": "Mocktail",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 100,
+    "ingredient": 299,
+    "label": "Freshly Squeezed Orange Juice"
+   },
+   {
+    "unit": "tsp",
+    "amount": 2,
+    "ingredient": 300
+   },
+   {
+    "unit": "tbsp",
+    "amount": 2,
+    "ingredient": 301
+   },
+   {
+    "unit": "tbsp",
+    "amount": 3,
+    "ingredient": 302
+   },
+   {
+    "unit": "cl",
+    "amount": 50,
+    "ingredient": 286,
+    "label": "Pressed Pineapple Juice"
+   },
+   {
+    "unit": "tbsp",
+    "amount": 3,
+    "ingredient": 304
+   },
+   {
+    "unit": "cl",
+    "amount": 100,
+    "ingredient": 305
+   },
+   {
+    "unit": "medium-sized",
+    "amount": 1,
+    "ingredient": 293
+   }
+  ],
+  "garnish": "Halloween jellies and crushed ice.",
+  "preparation": "Scoop the flesh out and chop the pumpkin, remove fibres and seeds. Toast it and reserve for garnish. For the spiced pumpkin purée, bring a small amount of water to a simmer in a pan. Suspend a steaming basket above the water (do not allow the base of the basket to touch the water). Add the chopped pumpkin and steam for 15-20 minutes, or until tender. Remove from the steaming basket and set aside to cool. When the pumpkin has cooled, transfer it to the bowl of a food processor. Add the orange juice, allspice and honey and blend until smooth and well combined. For the cocktail, mix together the pumpkin purée, pineapple juice, grenadine and crushed ice in a large jug until well combined. Chill in the fridge for at least one hour. To serve, pour the mixture into a large bowl (preferably skull-shaped). The mixture should half-fill the bowl. Top up with the lemonade. Mix well. Ladle into cups and garnish with Halloween jellies.",
+  "id": 80,
+  "slug": "skull-punch",
+  "tags": [
+   "halloween",
+   "mocktail",
+   "children",
+   "punch"
+  ]
+ },
+ {
+  "name": "Halloween Mocktail Punch",
+  "glass": "bowl",
+  "category": "Punch",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 50,
+    "ingredient": 307
+   },
+   {
+    "unit": "cl",
+    "amount": 150,
+    "ingredient": 308
+   },
+   {
+    "amount": 3,
+    "ingredient": 309,
+    "label": "Limes (juice only)"
+   }
+  ],
+  "garnish": "Large handful of gummi worms",
+  "preparation": "Pour all of the ingredients into a large glass bowl and mix until well combined. Drape the gummi worms over the edge of the bowl. Recipe Tips: To make it extra spooky – rinse a food-grade rubber glove and turn it inside out. Fill with water, tie the top with an elastic band and freeze until solid. Turn the frozen ‘hand’ out into the punch.",
+  "id": 81,
+  "slug": "halloween-mocktail-punch",
+  "tags": [
+   "halloween",
+   "mocktail",
+   "punch",
+   "children"
+  ]
+ },
+ {
+  "name": "Halloween Punch",
+  "glass": "bowl",
+  "category": "Punch",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 50,
+    "ingredient": 307
+   },
+   {
+    "unit": "cl",
+    "amount": 150,
+    "ingredient": 308
+   },
+   {
+    "unit": "cl",
+    "amount": 50,
+    "ingredient": 2
+   },
+   {
+    "amount": 3,
+    "ingredient": 309,
+    "label": "Limes (juice only)"
+   }
+  ],
+  "garnish": "Large handful of gummi worms",
+  "preparation": "Pour all of the ingredients into a large glass bowl and mix until well combined. Drape the gummi worms over the edge of the bowl. Recipe Tips: To make it extra spooky – rinse a food-grade rubber glove and turn it inside out. Fill with water, tie the top with an elastic band and freeze until solid. Turn the frozen ‘hand’ out into the punch.",
+  "id": 82,
+  "slug": "halloween-punch",
+  "tags": [
+   "halloween",
+   "punch"
+  ]
+ },
+ {
+  "name": "Bewitched",
+  "glass": "flute",
+  "category": "Punch",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 100,
+    "ingredient": 299,
+    "label": "Freshly Squeezed Orange Juice"
+   },
+   {
+    "unit": "tsp",
+    "amount": 2,
+    "ingredient": 300
+   },
+   {
+    "unit": "tbsp",
+    "amount": 2,
+    "ingredient": 301
+   },
+   {
+    "unit": "tbsp",
+    "amount": 3,
+    "ingredient": 302
+   },
+   {
+    "unit": "tsp",
+    "amount": 2,
+    "ingredient": 318
+   },
+   {
+    "unit": "ml",
+    "amount": 35,
+    "ingredient": 319,
+    "label": "Bourbon Whiskey"
+   },
+   {
+    "unit": "tbsp",
+    "amount": 1,
+    "ingredient": 320,
+    "label": "Sour Cherry Liqueur"
+   }
+  ],
+  "garnish": "Ice, toasted pumpkin seeds and a pinch of freshly grated nutmeg.",
+  "preparation": "Scoop the flesh out and chop the pumpkin, remove fibres and seeds. Toast it and reserve for garnish. For the spiced pumpkin purée, bring a small amount of water to a simmer in a pan. Suspend a steaming basket above the water (do not allow the base of the basket to touch the water). Add the chopped pumpkin and steam for 15-20 minutes, or until tender. Remove from the steaming basket and set aside to cool. When the pumpkin has cooled, transfer it to the bowl of a food processor. Add the orange juice, allspice and honey and blend until smooth and well combined. For the cocktail, pour the bourbon, sour cherry liqueur, herb liqueur and pumpkin purée into a cocktail shaker. Add ice and shake well. To serve, strain the mixture into a flute glass. Garnish the surface of the cocktail with a few toasted pumpkin seeds. Dust with a little freshly grated nutmeg.",
+  "id": 83,
+  "slug": "bewitched",
+  "tags": [
+   "halloween",
+   "punch"
+  ]
+ },
+ {
+  "name": "Bloody Mary",
+  "glass": "rocks",
+  "category": "Halloween",
+  "ingredients": [
+   {
+    "amount": 2,
+    "ingredient": 321
+   },
+   {
+    "amount": "half a",
+    "ingredient": 291
+   },
+   {
+    "amount": "double shot of",
+    "ingredient": 2
+   },
+   {
+    "unit": "dashes",
+    "amount": "6",
+    "ingredient": 145
+   },
+   {
+    "unit": "dashes",
+    "amount": "3",
+    "ingredient": 325
+   },
+   {
+    "unit": "cl",
+    "amount": "15",
+    "ingredient": 326
+   },
+   {
+    "unit": "pinch of",
+    "amount": "1",
+    "ingredient": 271
+   },
+   {
+    "unit": "pinch of",
+    "amount": "1",
+    "ingredient": 328
+   }
+  ],
+  "garnish": "Orance slice and a cherry",
+  "preparation": "Place the ice into a tall glass and add the vodka. Add the lemon juice, Worcestershire sauce, Tabasco sauce and tomato juice. Stir well. Adjust the seasoning, to taste, with salt and pepper and serve straightaway.",
+  "id": 84,
+  "slug": "bloody-mary",
+  "tags": [
+   "halloween"
+  ]
  }
 ]
