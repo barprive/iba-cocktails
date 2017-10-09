@@ -55,7 +55,8 @@ gen_recipes = _.map(gen_recipes, recipe => {
     // Find id matching ingredient name in list of ingredients
     var found = _.find(gen_ingredients, ["name", ingredient.ingredient]);
     // Update ingredient name for id in ingredient specified in recipe
-    ingredient.ingredient = found.id;
+    ingredient.id = found.id;
+    ingredient.ingredient = undefined;
     return ingredient;
   });
   return recipe_duplicate;

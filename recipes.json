@@ -1238,7 +1238,9 @@
   "preparation": "Stir gently, pour all ingredients into highball glass.",
   "id": 43,
   "slug": "bloody-mary",
-  "tags": []
+  "tags": [
+    "halloween"
+  ]
  },
  {
   "name": "Mai-tai",
@@ -2555,54 +2557,5 @@
   "id": 83,
   "slug": "bewitched",
   "tags": ["halloween", "punch"]
- },
- {
-  "name": "Bloody Mary",
-  "glass": "rocks",
-  "category": "Halloween",
-  "ingredients": [
-   {
-    "amount": 2,
-    "ingredient": "Ice Cubes"
-   },
-   {
-    "amount": "half a",
-    "ingredient": "Lemon"
-   },
-   {
-    "amount": "double shot of",
-    "ingredient": "Vodka"
-   },
-   {
-    "unit": "dashes",
-    "amount": "6",
-    "ingredient": "Worcestershire Sauce"
-   },
-   {
-    "unit": "dashes",
-    "amount": "3",
-    "ingredient": "Tabasco Sauce"
-   },
-   {
-    "unit": "cl",
-    "amount": "15",
-    "ingredient": "Tomato Juice"
-   },
-   {
-    "unit": "pinch of",
-    "amount": "1",
-    "ingredient": "Salt"
-   },
-   {
-    "unit": "pinch of",
-    "amount": "1",
-    "ingredient": "Ground Black Pepper"
-   }
-  ],
-  "garnish": "Orance slice and a cherry",
-  "preparation": "Place the ice into a tall glass and add the vodka. Add the lemon juice, Worcestershire sauce, Tabasco sauce and tomato juice. Stir well. Adjust the seasoning, to taste, with salt and pepper and serve straightaway.",
-  "id": 84,
-  "slug": "bloody-mary",
-  "tags": ["halloween"]
  }
 ]
