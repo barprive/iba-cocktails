@@ -75,8 +75,8 @@
   "id": 15
  },
  {
-  "name": "Whiskey Sour",
-  "slug": "whiskey-sour",
+  "name": "Whisky Sour",
+  "slug": "Whisky-sour",
   "id": 16
  },
  {
@@ -282,6 +282,11 @@
  {
   "name": "Kir",
   "slug": "kir",
+  "id": 57
+ },
+ {
+  "name": "Kir Royal",
+  "slug": "kir-royal",
   "id": 57
  },
  {

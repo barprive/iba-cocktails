@@ -44,6 +44,9 @@ _.each(recipes, recipe => {
 //// Sort ingredients so they are unique
 gen_ingredients = _.uniqBy(gen_ingredients, "name");
 
+//// Sort ingredients by name
+gen_ingredients = _.sortBy(gen_ingredients, [function(ing) { return ing.name; }]);
+
 //// Duplicate cocktail recipes input in output dicitonary
 gen_recipes = _.cloneDeep(recipes);
 

@@ -34,19 +34,18 @@
    {
     "unit": "cl",
     "amount": 4.5,
-    "ingredient": "White rum",
+    "ingredient": "White Rum",
     "label": "Bacardi White Rum"
    },
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Grenadine"
+    "ingredient": "Grenadine Syrup"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
@@ -73,7 +72,7 @@
     "unit": "cl",
     "amount": 3,
     "ingredient": "Vermouth",
-    "label": "Sweet red vermouth"
+    "label": "Sweet Red Vermouth"
    }
   ],
   "garnish": "Half an orange slice",
@@ -95,11 +94,11 @@
     "unit": "cl",
     "amount": 4,
     "ingredient": "Vermouth",
-    "label": "Dry vermouth"
+    "label": "Dry Vermouth"
    },
    {
     "amount": "3 dashes",
-    "ingredient": "Strawberry syrup"
+    "ingredient": "Strawberry Syrup"
    }
   ],
   "preparation": "Stir all ingredients with ice and strain into a cocktail glass.",
@@ -116,7 +115,7 @@
     "unit": "cl",
     "amount": 4.5,
     "ingredient": "Whisky",
-    "label": "Bourbon or rye whiskey"
+    "label": "Bourbon or Rye Whisky"
    },
    {
     "amount": "2 dashes",
@@ -124,11 +123,11 @@
    },
    {
     "amount": "1 cube of",
-    "ingredient": "White sugar"
+    "ingredient": "White Sugar"
    },
    {
     "amount": "Few dashes",
-    "ingredient": "Plain water"
+    "ingredient": "Plain Water"
    }
   ],
   "garnish": "Orange slice and cherry",
@@ -181,13 +180,13 @@
    {
     "unit": "cl",
     "amount": 4,
-    "ingredient": "White rum",
+    "ingredient": "White Rum",
     "label": "White Cuban Rum"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "amount": "6 sprigs of",
@@ -195,10 +194,10 @@
    },
    {
     "amount": "2 teaspoons",
-    "ingredient": "White sugar"
+    "ingredient": "White Sugar"
    },
    {
-    "ingredient": "Soda water"
+    "ingredient": "Soda Water"
    }
   ],
   "garnish": "Mint leaves and lemon slice",
@@ -242,34 +241,32 @@
    {
     "unit": "cl",
     "amount": 4.5,
-    "ingredient": "Dark rum"
+    "ingredient": "Dark Rum"
    },
    {
     "unit": "cl",
     "amount": 3.5,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    },
    {
     "unit": "cl",
     "amount": 3.5,
-    "ingredient": "Pineapple juice"
+    "ingredient": "Pineapple Juice"
    },
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Grenadine"
+    "ingredient": "Grenadine Syrup"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "amount": "3 to 4 dashes",
@@ -295,12 +292,12 @@
    {
     "unit": "cl",
     "amount": 12,
-    "ingredient": "Cranberry juice"
+    "ingredient": "Cranberry Juice"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Grapefruit juice"
+    "ingredient": "Grapefruit Juice"
    }
   ],
   "garnish": "Lime wedge",
@@ -322,18 +319,17 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "amount": 1,
     "ingredient": "Egg",
-    "label": "Egg white"
+    "label": "Egg White"
    }
   ],
   "preparation": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top.",
@@ -359,7 +355,7 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
@@ -374,13 +370,12 @@
    {
     "unit": "cl",
     "amount": 2.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Syrup",
-    "label": "Gomme syrup"
+    "ingredient": "Gomme Syrup"
    },
    {
     "amount": "1 dash of",
@@ -406,13 +401,12 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Syrup",
-    "label": "Raspberry syrup"
+    "ingredient": "Raspberry Syrup"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "amount": "Few drops of",
@@ -438,7 +432,7 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Apricot brandy"
+    "ingredient": "Apricot Brandy"
    },
    {
     "unit": "cl",
@@ -464,7 +458,7 @@
    {
     "unit": "cl",
     "amount": 7.5,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    }
   ],
   "garnish": "Optional orange twist",
@@ -474,7 +468,7 @@
   "tags": []
  },
  {
-  "name": "Whiskey Sour",
+  "name": "Whisky Sour",
   "glass": "old-fashioned",
   "category": "Before Dinner Cocktail",
   "ingredients": [
@@ -482,24 +476,23 @@
     "unit": "cl",
     "amount": 4.5,
     "ingredient": "Whisky",
-    "label": "Bourbon whiskey"
+    "label": "Bourbon Whisky"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    }
   ],
   "garnish": "Half an orange slice and cherry",
   "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.",
   "id": 16,
-  "slug": "whiskey-sour",
+  "slug": "Whisky-sour",
   "tags": []
  },
  {
@@ -515,7 +508,7 @@
    {
     "unit": "cl",
     "amount": 10,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    }
   ],
   "garnish": "Orange slice",
@@ -532,7 +525,7 @@
    {
     "unit": "cl",
     "amount": 5,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
@@ -542,7 +535,7 @@
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    }
   ],
   "garnish": "Lime wedge",
@@ -560,13 +553,13 @@
     "unit": "cl",
     "amount": 5,
     "ingredient": "Whisky",
-    "label": "Rye whiskey"
+    "label": "Rye Whisky"
    },
    {
     "unit": "cl",
     "amount": 2,
     "ingredient": "Vermouth",
-    "label": "Red vermouth"
+    "label": "Red Vermouth"
    },
    {
     "amount": "1 dash",
@@ -598,7 +591,7 @@
     "unit": "cl",
     "amount": 1,
     "ingredient": "Egg",
-    "label": "Egg yolk"
+    "label": "Egg Yolk"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass. Sprinkle with fresh ground nutmeg.",
@@ -619,18 +612,17 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "unit": "cl",
     "amount": 8,
-    "ingredient": "Soda water"
+    "ingredient": "Soda Water"
    }
   ],
   "garnish": "Lemon slice",
@@ -652,16 +644,16 @@
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Coffee liqueur",
+    "ingredient": "Coffee Liqueur",
     "label": "Kahlúa"
    },
    {
-    "ingredient": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "amount": "1 short",
-    "ingredient": "Hot coffee",
-    "label": "Strong Espresso"
+    "ingredient": "Coffee",
+    "label": "Strong Hot Espresso"
    }
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
@@ -688,7 +680,7 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe).",
@@ -708,17 +700,17 @@
    },
    {
     "unit": "cl",
-    "amount": 1.5,
-    "ingredient": "Lemon juice"
-   },
-   {
-    "amount": "2 dashes",
-    "ingredient": "Sugar syrup"
+    "amount": 6,
+    "ingredient": "Champagne"
    },
    {
     "unit": "cl",
-    "amount": 6,
-    "ingredient": "Champagne"
+    "amount": 1.5,
+    "ingredient": "Lemon Juice"
+   },
+   {
+    "amount": "2 dashes",
+    "ingredient": "Sugar Syrup"
    }
   ],
   "preparation": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently.",
@@ -734,7 +726,7 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
@@ -749,7 +741,7 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    }
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
@@ -765,17 +757,17 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
     "amount": 9,
-    "ingredient": "Pineapple juice"
+    "ingredient": "Pineapple Juice"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Coconut milk"
+    "ingredient": "Coconut Milk"
    }
   ],
   "garnish": "Pineapple slice and a cherry",
@@ -797,13 +789,13 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Cherry liqueur",
+    "ingredient": "Cherry Liqueur",
     "label": "Maraschino"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    }
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
@@ -824,10 +816,10 @@
    {
     "unit": "cl",
     "amount": 5,
-    "ingredient": "Peach puree"
+    "ingredient": "Peach Puree"
    }
   ],
-  "preparation": "Pour peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)",
+  "preparation": "Pour the peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)",
   "id": 28,
   "slug": "bellini",
   "tags": []
@@ -840,14 +832,12 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Créme liqueur",
-    "label": "White Créme de Cacao"
+    "ingredient": "Créme de Cacao Liqueur"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Créme liqueur",
-    "label": "Green Créme de Menthe"
+    "ingredient": "Créme de Menthe Liqueur"
    },
    {
     "unit": "cl",
@@ -873,13 +863,12 @@
    {
     "unit": "cl",
     "amount": 9,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Syrup",
-    "label": "Grenadine"
+    "ingredient": "Grenadine Syrup"
    }
   ],
   "garnish": "Orange slice and a cherry",
@@ -896,18 +885,17 @@
    {
     "unit": "cl",
     "amount": 4.5,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
     "amount": 2.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Syrup",
-    "label": "Simple syrup"
+    "ingredient": "Sugar Syrup"
    }
   ],
   "preparation": "Shake and strain into a cocktail glass.",
@@ -924,7 +912,7 @@
     "unit": "cl",
     "amount": 4.5,
     "ingredient": "Whisky",
-    "label": "Scotch whisky"
+    "label": "Scotch Whisky"
    },
    {
     "unit": "cl",
@@ -946,13 +934,13 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Coffee liqueur",
+    "ingredient": "Coffee Liqueur",
     "label": "Kahlúa"
    },
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Cream liqueur",
+    "ingredient": "Cream Liqueur",
     "label": "Baileys Irish Cream"
    },
    {
@@ -980,8 +968,7 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Créme liqueur",
-    "label": "White Créme de Menthe"
+    "ingredient": "Créme de Menthe Liqueur"
    }
   ],
   "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass.",
@@ -1007,7 +994,7 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    },
    {
     "unit": "cl",
@@ -1057,7 +1044,7 @@
    },
    {
     "amount": "Splash of",
-    "ingredient": "Soda water"
+    "ingredient": "Soda Water"
    }
   ],
   "garnish": "Half an orange slice",
@@ -1079,18 +1066,17 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Blackberry liqueur"
+    "ingredient": "Blackberry Liqueur"
    }
   ],
   "garnish": "Lemon slice and two blackberries",
@@ -1111,8 +1097,7 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Créme liqueur",
-    "label": "Brown Créme de Cacao"
+    "ingredient": "Créme de Cacao Liqueur"
    },
    {
     "unit": "cl",
@@ -1144,7 +1129,7 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    }
   ],
   "garnish": "Lemon slice",
@@ -1166,12 +1151,12 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Raspberry liqueur"
+    "ingredient": "Raspberry Liqueur"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Pineapple juice"
+    "ingredient": "Pineapple Juice"
    }
   ],
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
@@ -1192,7 +1177,7 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Coffee liqueur"
+    "ingredient": "Coffee Liqueur"
    }
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently. Note: for White Russian, float fresh cream on the top and stir gently.",
@@ -1213,12 +1198,12 @@
    {
     "unit": "cl",
     "amount": 9,
-    "ingredient": "Tomato juice"
+    "ingredient": "Tomato Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "amount": "2 to 3 dashes of",
@@ -1228,7 +1213,7 @@
     "ingredient": "Tabasco"
    },
    {
-    "ingredient": "Celery salt"
+    "ingredient": "Celery Salt"
    },
    {
     "ingredient": "Pepper"
@@ -1250,12 +1235,12 @@
    {
     "unit": "cl",
     "amount": 4,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Dark rum"
+    "ingredient": "Dark Rum"
    },
    {
     "unit": "cl",
@@ -1266,13 +1251,12 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Syrup",
-    "label": "Orgeat syrup"
+    "ingredient": "Orgeat Syrup"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    }
   ],
   "garnish": "Pineapple spear, mint leaves and lime wedge",
@@ -1289,8 +1273,7 @@
    {
     "unit": "cl",
     "amount": 4.5,
-    "ingredient": "Dark rum",
-    "label": "Gold rum"
+    "ingredient": "Gold Rum"
    },
    {
     "unit": "cl",
@@ -1300,11 +1283,11 @@
    {
     "unit": "cl",
     "amount": 6,
-    "ingredient": "Pineapple juice"
+    "ingredient": "Pineapple Juice"
    },
    {
     "amount": "1 dash",
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "amount": "Top with",
@@ -1328,17 +1311,17 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Peach schnapps"
+    "ingredient": "Peach Schnapps"
    },
    {
     "unit": "cl",
     "amount": 4,
-    "ingredient": "Cranberry juice"
+    "ingredient": "Cranberry Juice"
    },
    {
     "unit": "cl",
     "amount": 4,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    }
   ],
   "garnish": "Orange slice",
@@ -1358,17 +1341,17 @@
     "ingredient": "Gin"
    },
    {
-    "unit": "cl",
-    "amount": 3,
-    "ingredient": "Orange juice"
-   },
-   {
     "amount": "2 drops",
     "ingredient": "Absinthe"
    },
    {
+    "unit": "cl",
+    "amount": 3,
+    "ingredient": "Orange Juice"
+   },
+   {
     "amount": "2 drops",
-    "ingredient": "Grenadine"
+    "ingredient": "Grenadine Syrup"
    }
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
@@ -1393,7 +1376,7 @@
    {
     "amount": 2,
     "ingredient": "Mint",
-    "label": "Mint leaves"
+    "label": "Mint Leaves"
    }
   ],
   "garnish": "Mint leaves",
@@ -1420,7 +1403,7 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass.",
@@ -1437,12 +1420,12 @@
     "unit": "cl",
     "amount": 4,
     "ingredient": "Whisky",
-    "label": "Irish whiskey"
+    "label": "Irish Whisky"
    },
    {
     "unit": "cl",
     "amount": 9,
-    "ingredient": "Hot coffee"
+    "ingredient": "Hot Coffee"
    },
    {
     "unit": "cl",
@@ -1451,10 +1434,10 @@
    },
    {
     "amount": "1 teaspoon of",
-    "ingredient": "Brown sugar"
+    "ingredient": "Brown Sugar"
    }
   ],
-  "preparation": "Warm the Irish whiskey over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top.",
+  "preparation": "Warm the Irish Whisky over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top.",
   "id": 50,
   "slug": "irish-coffee",
   "tags": []
@@ -1476,7 +1459,7 @@
    },
    {
     "amount": "1 cube of",
-    "ingredient": "White sugar"
+    "ingredient": "White Sugar"
    },
    {
     "amount": "2 dashes",
@@ -1484,7 +1467,7 @@
    }
   ],
   "garnish": "Lemon twist",
-  "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye whiskey substituted cognac as it became hard to obtain.",
+  "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye Whisky substituted cognac as it became hard to obtain.",
   "id": 51,
   "slug": "sazerac",
   "tags": []
@@ -1503,11 +1486,11 @@
     "unit": "cl",
     "amount": 3,
     "ingredient": "Vermouth",
-    "label": "Red vermouth"
+    "label": "Red Vermouth"
    },
    {
     "amount": "A splash of",
-    "ingredient": "Soda water"
+    "ingredient": "Soda Water"
    }
   ],
   "garnish": "Half an orange slice",
@@ -1529,7 +1512,7 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Cherry liqueur"
+    "ingredient": "Cherry Liqueur"
    },
    {
     "unit": "cl",
@@ -1545,18 +1528,17 @@
    {
     "unit": "cl",
     "amount": 12,
-    "ingredient": "Pineapple juice"
+    "ingredient": "Pineapple Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Grenadine"
+    "ingredient": "Grenadine Syrup"
    },
    {
     "amount": "1 dash",
@@ -1602,12 +1584,12 @@
    {
     "unit": "cl",
     "amount": 12,
-    "ingredient": "Ginger beer"
+    "ingredient": "Ginger Beer"
    },
    {
     "unit": "cl",
     "amount": 0.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "amount": "1 slice",
@@ -1633,18 +1615,17 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "unit": "cl",
     "amount": 6,
-    "ingredient": "Soda water"
+    "ingredient": "Soda Water"
    }
   ],
   "garnish": "Lemon slice and a cherry",
@@ -1666,13 +1647,33 @@
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Créme liqueur",
-    "label": "Créme de Cassis"
+    "ingredient": "Créme de Cassis Liqueur"
    }
   ],
   "preparation": "Pour Créme de Cassis into glass, top up with white wine. For Kir Royal: Use champagne instead of white wine.",
   "id": 57,
   "slug": "kir",
+  "tags": []
+ },
+ {
+  "name": "Kir Royal",
+  "glass": "champagne",
+  "category": "Before Dinner Cocktail",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 9,
+    "ingredient": "Champagne"
+   },
+   {
+    "unit": "cl",
+    "amount": 1,
+    "ingredient": "Créme de Cassis Liqueur"
+   }
+  ],
+  "preparation": "Pour Créme de Cassis into glass, top up with Champagne. For normal Kir: Use dry white wine instead of Champagne.",
+  "id": 57,
+  "slug": "kir-royal",
   "tags": []
  },
  {
@@ -1684,7 +1685,7 @@
     "unit": "cl",
     "amount": 6,
     "ingredient": "Whisky",
-    "label": "Bourbon whiskey"
+    "label": "Bourbon Whisky"
    },
    {
     "amount": "4 sprigs of",
@@ -1692,11 +1693,11 @@
    },
    {
     "amount": "1 teaspoon",
-    "ingredient": "Powdered sugar"
+    "ingredient": "Powdered Sugar"
    },
    {
     "amount": "2 teaspoons",
-    "ingredient": "Plain water"
+    "ingredient": "Plain Water"
    }
   ],
   "garnish": "Mint spring",
@@ -1718,11 +1719,11 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "amount": "2 bar spoons",
-    "ingredient": "Agave nectar"
+    "ingredient": "Agave Nectar"
    }
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
@@ -1743,12 +1744,12 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Apricot brandy"
+    "ingredient": "Apricot Brandy"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
@@ -1770,12 +1771,12 @@
     "unit": "cl",
     "amount": 1,
     "ingredient": "Vermouth",
-    "label": "Dry vermouth"
+    "label": "Dry Vermouth"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Olive juice"
+    "ingredient": "Olive Juice"
    }
   ],
   "garnish": "Green olive",
@@ -1805,7 +1806,7 @@
    },
    {
     "amount": "1 cube of",
-    "ingredient": "White sugar"
+    "ingredient": "White Sugar"
    }
   ],
   "garnish": "Orange slice and a cherry",
@@ -1822,24 +1823,23 @@
    {
     "unit": "cl",
     "amount": 6,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Cherry liqueur",
+    "ingredient": "Cherry Liqueur",
     "label": "Maraschino"
    },
    {
     "unit": "cl",
     "amount": 6,
-    "ingredient": "Pineapple juice"
+    "ingredient": "Pineapple Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Grenadine"
+    "ingredient": "Grenadine Syrup"
    }
   ],
   "preparation": "Shake and strain into a chilled large cocktail glass.",
@@ -1855,23 +1855,23 @@
    {
     "unit": "cl",
     "amount": 6,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
     "amount": 4,
-    "ingredient": "Grapefruit juice"
+    "ingredient": "Grapefruit Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Cherry liqueur",
+    "ingredient": "Cherry Liqueur",
     "label": "Maraschino"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into a double cocktail glass.",
@@ -1887,12 +1887,12 @@
    {
     "unit": "cl",
     "amount": 6,
-    "ingredient": "Dark rum"
+    "ingredient": "Dark Rum"
    },
    {
     "unit": "cl",
     "amount": 10,
-    "ingredient": "Ginger beer"
+    "ingredient": "Ginger Beer"
    }
   ],
   "garnish": "Lime wedge",
@@ -1914,18 +1914,17 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    },
    {
     "unit": "cl",
@@ -1935,18 +1934,18 @@
    {
     "amount": 1,
     "ingredient": "Egg",
-    "label": "Egg white"
+    "label": "Egg White"
    },
    {
     "amount": "3 dashes",
-    "ingredient": "Orange flower water"
+    "ingredient": "Orange Flower Water"
    },
    {
     "amount": "2 drops",
-    "ingredient": "Vanilla extract"
+    "ingredient": "Vanilla Extract"
    },
    {
-    "ingredient": "Soda water"
+    "ingredient": "Soda Water"
    }
   ],
   "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
@@ -1967,19 +1966,17 @@
    {
     "unit": "cl",
     "amount": 2.5,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Créme liqueur",
-    "label": "Créme de Cassis"
+    "ingredient": "Créme de Cassis Liqueur"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Syrup",
-    "label": "Sugar syrup"
+    "ingredient": "Sugar Syrup"
    }
   ],
   "garnish": "Lemon slice and a blackberry",
@@ -1996,7 +1993,7 @@
     "unit": "cl",
     "amount": 3.5,
     "ingredient": "Whisky",
-    "label": "Scotch whisky"
+    "label": "Scotch Whisky"
    },
    {
     "unit": "cl",
@@ -2029,12 +2026,12 @@
    {
     "unit": "cl",
     "amount": 1.5,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Cranberry juice"
+    "ingredient": "Cranberry Juice"
    }
   ],
   "garnish": "Lime slice",
@@ -2057,7 +2054,7 @@
     "unit": "cl",
     "amount": 1,
     "ingredient": "Vermouth",
-    "label": "Dry vermouth"
+    "label": "Dry Vermouth"
    }
   ],
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
@@ -2073,7 +2070,7 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "White rum"
+    "ingredient": "White Rum"
    },
    {
     "unit": "cl",
@@ -2088,7 +2085,7 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
@@ -2110,7 +2107,7 @@
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Cherry liqueur",
+    "ingredient": "Cherry Liqueur",
     "label": "Maraschino"
    },
    {
@@ -2121,7 +2118,7 @@
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    }
   ],
   "garnish": "Lemon twist and a cherry",
@@ -2146,7 +2143,7 @@
    },
    {
     "amount": "2 teaspoon",
-    "ingredient": "White sugar"
+    "ingredient": "White Sugar"
    }
   ],
   "preparation": "Cut the half lime in 4 wedges. Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca.",
@@ -2167,22 +2164,22 @@
    {
     "unit": "cl",
     "amount": 7,
-    "ingredient": "Tomato juice"
+    "ingredient": "Tomato Juice"
    },
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    },
    {
     "unit": "cl",
     "amount": 1,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    },
    {
     "amount": "1 teaspoon",
     "ingredient": "Honey",
-    "label": "Clear honey"
+    "label": "Clear Honey"
    },
    {
     "amount": "1 half slice",
@@ -2190,7 +2187,7 @@
    },
    {
     "amount": "Few slices",
-    "ingredient": "Red hot chili peppers"
+    "ingredient": "Red Hot Chili Peppers"
    },
    {
     "amount": "Few drops",
@@ -2224,7 +2221,7 @@
    {
     "unit": "cl",
     "amount": 3,
-    "ingredient": "Lime juice"
+    "ingredient": "Lime Juice"
    }
   ],
   "preparation": "Shake and strain into a chilled cocktail glass.",
@@ -2250,7 +2247,7 @@
    {
     "unit": "cl",
     "amount": 2,
-    "ingredient": "Lemon juice"
+    "ingredient": "Lemon Juice"
    }
   ],
   "preparation": "Shake with ice cubes. Strain into large cocktail glass.",
@@ -2276,7 +2273,7 @@
    {
     "unit": "cl",
     "amount": 9,
-    "ingredient": "Orange juice"
+    "ingredient": "Orange Juice"
    }
   ],
   "garnish": "Orance slice and a cherry",
@@ -2290,15 +2287,6 @@
   "glass": "bowl",
   "category": "Punch",
   "ingredients": [
-   {
-    "amount": "10 tbsp of",
-    "ingredient": "Brown Sugar"
-   },
-   {
-    "unit": "cl",
-    "amount": 30,
-    "ingredient": "Lemon Juice"
-   },
    {
     "unit": "cl",
     "amount": 30,
@@ -2314,6 +2302,15 @@
     "amount": 30,
     "ingredient": "Demerara Rum",
     "label": "Demerara Rum (preferably 151 proof)"
+   },
+   {
+    "amount": "10 tbsp of",
+    "ingredient": "Brown Sugar"
+   },
+   {
+    "unit": "cl",
+    "amount": 30,
+    "ingredient": "Lemon Juice"
    },
    {
     "unit": "cl",
@@ -2467,7 +2464,7 @@
    },
    {
     "amount": 3,
-    "ingredient": "Limes",
+    "ingredient": "Lime",
     "label": "Limes (juice only)"
    }
   ],
@@ -2485,6 +2482,11 @@
    {
     "unit": "cl",
     "amount": 50,
+    "ingredient": "Vodka"
+   },
+   {
+    "unit": "cl",
+    "amount": 50,
     "ingredient": "Cranberry Juice"
    },
    {
@@ -2493,13 +2495,8 @@
     "ingredient": "Lemonade"
    },
    {
-    "unit": "cl",
-    "amount": 50,
-    "ingredient": "Vodka"
-   },
-   {
     "amount": 3,
-    "ingredient": "Limes",
+    "ingredient": "Lime",
     "label": "Limes (juice only)"
    }
   ],
@@ -2514,6 +2511,12 @@
   "glass": "flute",
   "category": "Punch",
   "ingredients": [
+   {
+    "unit": "ml",
+    "amount": 35,
+    "ingredient": "Whisky",
+    "label": "Bourbon Whisky"
+   },
    {
     "unit": "medium-sized",
     "amount": 1,
@@ -2544,12 +2547,6 @@
     "unit": "tsp",
     "amount": 2,
     "ingredient": "Herb Liqueur"
-   },
-   {
-    "unit": "ml",
-    "amount": 35,
-    "ingredient": "Whisky",
-    "label": "Bourbon Whiskey"
    },
    {
     "unit": "tbsp",
