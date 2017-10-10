@@ -99,6 +99,21 @@ _.each(recipes, recipe => {
 //// Sort tags so they are unique
 gen_algolia_tags = _.uniqBy(gen_algolia_tags, "name");
 
+//// A few checks to emit warnings in case
+console.log("WARNINGZONE WARNINGZONE WARNINGZONE WARNINGZONE WARNINGZONE\n");
+var warningString = "";
+_.each(gen_recipes, recipe => {
+  recipe_duplicate = _.cloneDeep(recipe);
+  if(recipe_duplicate.ingredients == undefined || recipe_duplicate.ingredients == []) {
+    warningString += "No ingredients in cocktail "+recipe_duplicate.name+"\n";
+  }
+  if(recipe_duplicate.preparation == undefined || recipe_duplicate.preparation == "") {
+    warningString += "No preparation in cocktail "+recipe_duplicate.name+"\n";
+  }
+});
+console.log(warningString);
+console.log("\nWARNINGZONE WARNINGZONE WARNINGZONE WARNINGZONE WARNINGZONE\n\n");
+
 //// Write result to files
 fs.writeFile(recipes_dest, JSON.stringify(gen_recipes, null, " "), err => {
   if (err) throw err;
