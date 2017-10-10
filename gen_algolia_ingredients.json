@@ -40,7 +40,7 @@
   "id": 12
  },
  {
-  "name": "Whiskey",
+  "name": "Whisky",
   "id": 13
  },
  {
@@ -384,16 +384,12 @@
   "id": 304
  },
  {
-  "name": "Chilled Lemonade",
+  "name": "Lemonade",
   "id": 305
  },
  {
   "name": "Cranberry Juice",
   "id": 307
- },
- {
-  "name": "Lemonade",
-  "id": 308
  },
  {
   "name": "Limes",
@@ -402,10 +398,6 @@
  {
   "name": "Herb Liqueur",
   "id": 318
- },
- {
-  "name": "Whisky",
-  "id": 319
  },
  {
   "name": "Cherry Liqueur",
