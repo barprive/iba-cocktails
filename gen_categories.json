@@ -1,0 +1,55 @@
+[
+ {
+  "name": "Halloween",
+  "slug": "halloween",
+  "id": 1,
+  "tags": [
+   "halloween"
+  ],
+  "datestart": "1011",
+  "dateend": "1103"
+ },
+ {
+  "name": "Summer",
+  "slug": "summer",
+  "id": 2,
+  "tags": [
+   "summer",
+   "sunshine",
+   "sun"
+  ],
+  "datestart": "0621",
+  "dateend": "0922"
+ },
+ {
+  "name": "Autumn",
+  "slug": "autumn",
+  "id": 3,
+  "tags": [
+   "autumn",
+   "fall"
+  ],
+  "datestart": "0922",
+  "dateend": "1221"
+ },
+ {
+  "name": "Winter",
+  "slug": "winter",
+  "id": 4,
+  "tags": [
+   "winter"
+  ],
+  "datestart": "1221",
+  "dateend": "0320"
+ },
+ {
+  "name": "Spring",
+  "slug": "spring",
+  "id": 2,
+  "tags": [
+   "spring"
+  ],
+  "datestart": "0320",
+  "dateend": "0621"
+ }
+]

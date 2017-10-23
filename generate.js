@@ -11,20 +11,25 @@ const fs = require('fs');
 
 //// Open input point: cocktail recipes
 const recipes = require('./recipes');
+const categories = require('./categories');
 
 /// Destination files for generated collections
 const recipes_dest = "gen_cocktails.json"
 const ingredients_dest = "gen_ingredients.json"
+const categories_dest = "gen_categories.json"
 const algolia_recipes_dest = "gen_algolia_cocktails.json"
 const algolia_ingredients_dest = "gen_algolia_ingredients.json"
-const algolia_tag_dest = "gen_algolia_tags.json"
+const algolia_tags_dest = "gen_algolia_tags.json"
+const algolia_categories_dest = "gen_algolia_categories.json"
 
 //// Variables for both generated dictionaries of recipes and ingredients
 var gen_recipes;
 var gen_ingredients;
+var gen_categories;
 var gen_algolia_recipes;
 var gen_algolia_ingredients;
 var gen_algolia_tags;
+var gen_algolia_categories;
 
 //// Go get all the ingredients in the JSON recipes
 var gen_ingredients = [];
@@ -99,6 +104,21 @@ _.each(recipes, recipe => {
 //// Sort tags so they are unique
 gen_algolia_tags = _.uniqBy(gen_algolia_tags, "name");
 
+//// Copy categories into generated file
+gen_categories = _.map(categories, category => {
+  category_duplicate = _.cloneDeep(category);
+  return category_duplicate;
+});
+
+//// Get subset from categories attributes for Algolia
+gen_algolia_categories = _.map(gen_categories, category => {
+  algolia_category = {"name": "", "slug": "", "id": -1};
+  algolia_category.name = category.name;
+  algolia_category.id = category.id;
+  algolia_category.slug = category.slug;
+  return algolia_category;
+});
+
 //// A few checks to emit warnings in case
 console.log("WARNINGZONE WARNINGZONE WARNINGZONE WARNINGZONE WARNINGZONE\n");
 var warningString = "";
@@ -123,6 +143,10 @@ fs.writeFile(ingredients_dest, JSON.stringify(gen_ingredients, null, " "), err =
   if (err) throw err;
   console.log('Ingredients generated in '+ingredients_dest);
 });
+fs.writeFile(categories_dest, JSON.stringify(gen_categories, null, " "), err => {
+  if (err) throw err;
+  console.log('Categories generated in '+categories_dest);
+});
 fs.writeFile(algolia_recipes_dest, JSON.stringify(gen_algolia_recipes, null, " "), err => {
   if (err) throw err;
   console.log('Cocktails recipes for Algolia generated in '+algolia_recipes_dest);
@@ -131,7 +155,11 @@ fs.writeFile(algolia_ingredients_dest, JSON.stringify(gen_algolia_ingredients, n
   if (err) throw err;
   console.log('Ingredients for Algolia generated in '+algolia_ingredients_dest);
 });
-fs.writeFile(algolia_tag_dest, JSON.stringify(gen_algolia_tags, null, " "), err => {
+fs.writeFile(algolia_tags_dest, JSON.stringify(gen_algolia_tags, null, " "), err => {
   if (err) throw err;
-  console.log('Tags for Algolia generated in '+algolia_tag_dest);
+  console.log('Tags for Algolia generated in '+algolia_tags_dest);
+});
+fs.writeFile(algolia_categories_dest, JSON.stringify(gen_algolia_categories, null, " "), err => {
+  if (err) throw err;
+  console.log('Categories for Algolia generated in '+algolia_categories_dest);
 });

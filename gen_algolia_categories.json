@@ -1,0 +1,27 @@
+[
+ {
+  "name": "Halloween",
+  "slug": "halloween",
+  "id": 1
+ },
+ {
+  "name": "Summer",
+  "slug": "summer",
+  "id": 2
+ },
+ {
+  "name": "Autumn",
+  "slug": "autumn",
+  "id": 3
+ },
+ {
+  "name": "Winter",
+  "slug": "winter",
+  "id": 4
+ },
+ {
+  "name": "Spring",
+  "slug": "spring",
+  "id": 2
+ }
+]
