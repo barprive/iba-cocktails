@@ -2304,7 +2304,8 @@
     "label": "Demerara Rum (preferably 151 proof)"
    },
    {
-    "amount": "10 tbsp of",
+    "unit": "g",
+    "amount": "150",
     "ingredient": "Brown Sugar"
    },
    {
@@ -2365,13 +2366,13 @@
     "ingredient": "Black Vodka"
    },
    {
-    "unit": "tbsp",
-    "amount": 1,
+    "unit": "g",
+    "amount": 15,
     "ingredient": "Lemon Juice"
    },
    {
-    "unit": "tsp",
-    "amount": 2,
+    "unit": "ml",
+    "amount": 10,
     "ingredient": "Vanilla Extract"
    },
    {
@@ -2386,7 +2387,7 @@
     "label": "Fresh Apple Juice"
    }
   ],
-  "garnish": "One peeled lychee, 1/2 tsp of strawberry jam and one blueberry.",
+  "garnish": "One peeled lychee, 3mg of strawberry jam and one blueberry.",
   "preparation": "Place the vodka, lemon juice, vanilla syrup, blackberry liqueur and apple juice into a cocktail shaker filled with ice and shake well. Pour into a cocktail glass. To garnish, cut a small hole into the lychee. Fill with strawberry jam, then stick the blueberry into the jam to create an 'eyeball'. Float the 'eyeball' in the cocktail and serve.",
   "id": 79,
   "slug": "witchcraft",
@@ -2409,18 +2410,18 @@
     "label": "Freshly Squeezed Orange Juice"
    },
    {
-    "unit": "tsp",
-    "amount": 2,
+    "unit": "g",
+    "amount": 10,
     "ingredient": "Ground Allspice"
    },
    {
-    "unit": "tbsp",
-    "amount": 2,
+    "unit": "g",
+    "amount": 30,
     "ingredient": "Clear Honey"
    },
    {
-    "unit": "tbsp",
-    "amount": 3,
+    "unit": "g",
+    "amount": 45,
     "ingredient": "Spiced Pumpkin Puree"
    },
    {
@@ -2430,8 +2431,8 @@
     "label": "Pressed Pineapple Juice"
    },
    {
-    "unit": "tbsp",
-    "amount": 3,
+    "unit": "ml",
+    "amount": 45,
     "ingredient": "Grenadine Syrup"
    },
    {
@@ -2529,28 +2530,28 @@
     "label": "Freshly Squeezed Orange Juice"
    },
    {
-    "unit": "tsp",
-    "amount": 2,
+    "unit": "g",
+    "amount": 10,
     "ingredient": "Ground Allspice"
    },
    {
-    "unit": "tbsp",
-    "amount": 2,
+    "unit": "ml",
+    "amount": 30,
     "ingredient": "Clear Honey"
    },
    {
-    "unit": "tbsp",
-    "amount": 3,
+    "unit": "ml",
+    "amount": 45,
     "ingredient": "Spiced Pumpkin Puree"
    },
    {
-    "unit": "tsp",
-    "amount": 2,
+    "unit": "ml",
+    "amount": 10,
     "ingredient": "Herb Liqueur"
    },
    {
-    "unit": "tbsp",
-    "amount": 1,
+    "unit": "ml",
+    "amount": 15,
     "ingredient": "Cherry Liqueur",
     "label": "Sour Cherry Liqueur"
    }
