@@ -1,0 +1,31 @@
+# Add a new cocktail to recipes.json
+To add a new cocktail you need to edit just one file: recipes.json.
+You add an entry at the end of the file by copying the last entry and incrementing the id.
+
+# Generating all databases
+Once you have done that, run 'npm start' in the console and it will generate all the files needed as gen_*.
+
+# Commit your work
+Check there are no ingredient duplicates in gen_ingredients.json and commit your changes with Git.
+git add --all
+git commit -m "Update cocktails"
+git push
+
+# Update backend databases
+Copy gen_cocktails.json gen_ingredients.json gen_categories.json to backend/database.
+Commit your work with Git.
+git add --all
+git commit -m "Update cocktails"
+git push
+
+# Deploy into production
+Ask Jerome to do it as he has access to the server.
+
+# Add files to Algolia
+Now go to Algolia.
+Open each index, clear it and add new file to it.
+Example for categories:
+- open category index
+- clear whole index
+- upload JSON file
+- choose gen_algolia_categories.json
