@@ -76,7 +76,7 @@
  },
  {
   "name": "Whisky Sour",
-  "slug": "Whisky-sour",
+  "slug": "whisky-sour",
   "id": 16
  },
  {
@@ -418,5 +418,10 @@
   "name": "Bewitched",
   "slug": "bewitched",
   "id": 83
+ },
+ {
+  "name": "Batida",
+  "slug": "batida",
+  "id": 84
  }
 ]

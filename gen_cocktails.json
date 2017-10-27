@@ -512,7 +512,7 @@
   "garnish": "Half an orange slice and cherry",
   "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.",
   "id": 16,
-  "slug": "Whisky-sour",
+  "slug": "whisky-sour",
   "tags": [
    "autumn",
    "beforedinner"
@@ -1521,7 +1521,7 @@
     "id": 104
    },
    {
-    "amount": "1 teaspoon of",
+    "amount": "1 teaspoon",
     "id": 176
    }
   ],
@@ -2271,7 +2271,7 @@
     "id": 197
    },
    {
-    "amount": "2 teaspoon",
+    "amount": "2 teaspoons",
     "id": 15
    }
   ],
@@ -2723,6 +2723,45 @@
   "tags": [
    "halloween",
    "punch"
+  ]
+ },
+ {
+  "name": "Batida",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": 50,
+    "id": 262
+   },
+   {
+    "unit": "ml",
+    "amount": "60",
+    "id": 325
+   },
+   {
+    "unit": "ml",
+    "amount": "30",
+    "id": 326
+   },
+   {
+    "amount": "1 teaspoon",
+    "id": 15
+   },
+   {
+    "unit": "ml",
+    "amount": "5",
+    "id": 5
+   }
+  ],
+  "preparation": "Mix and pour into chilled glass full of ice.",
+  "id": 84,
+  "slug": "batida",
+  "tags": [
+   "allday",
+   "brazilian",
+   "summer"
   ]
  }
 ]

@@ -492,7 +492,7 @@
   "garnish": "Half an orange slice and cherry",
   "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.",
   "id": 16,
-  "slug": "Whisky-sour",
+  "slug": "whisky-sour",
   "tags": ["autumn", "beforedinner"]
  },
  {
@@ -1433,7 +1433,7 @@
     "ingredient": "Cream"
    },
    {
-    "amount": "1 teaspoon of",
+    "amount": "1 teaspoon",
     "ingredient": "Brown Sugar"
    }
   ],
@@ -2135,14 +2135,14 @@
    {
     "unit": "cl",
     "amount": 5,
-    "ingredient": "Cachaca"
+    "ingredient": "Cachaça"
    },
    {
     "amount": "1/2",
     "ingredient": "Lime"
    },
    {
-    "amount": "2 teaspoon",
+    "amount": "2 teaspoons",
     "ingredient": "White Sugar"
    }
   ],
@@ -2561,5 +2561,40 @@
   "id": 83,
   "slug": "bewitched",
   "tags": ["halloween", "punch"]
+ },
+ {
+  "name": "Batida",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": 50,
+    "ingredient": "Cachaça"
+   },
+   {
+    "unit": "ml",
+    "amount": "60",
+    "ingredient": "Coconut Water"
+   },
+   {
+    "unit": "ml",
+    "amount": "30",
+    "ingredient": "Condensed Milk"
+   },
+   {
+    "amount": "1 teaspoon",
+    "ingredient": "White Sugar"
+   },
+   {
+    "unit": "ml",
+    "amount": "5",
+    "ingredient": "Lime Juice"
+   }
+  ],
+  "preparation": "Mix and pour into chilled glass full of ice.",
+  "id": 84,
+  "slug": "batida",
+  "tags": ["allday", "brazilian", "summer"]
  }
 ]
