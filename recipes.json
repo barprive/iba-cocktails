@@ -465,7 +465,7 @@
   "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: a Buck’s Fizz and a Mimosa are the same drink.",
   "id": 15,
   "slug": "mimosa",
-  "tags": []
+  "tags": ["festive"]
  },
  {
   "name": "Whisky Sour",
@@ -1019,7 +1019,8 @@
    {
     "unit": "cl",
     "amount": 3.5,
-    "ingredient": "DiSaronno"
+    "ingredient": "Amaretto",
+    "label": "Disaronno"
    }
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
@@ -1563,7 +1564,8 @@
    {
     "unit": "cl",
     "amount": 3.5,
-    "ingredient": "DiSaronno"
+    "ingredient": "Amaretto",
+    "label": "Disaronno"
    }
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
@@ -1653,7 +1655,7 @@
   "preparation": "Pour Créme de Cassis into glass, top up with white wine. For Kir Royal: Use champagne instead of white wine.",
   "id": 57,
   "slug": "kir",
-  "tags": ["beforedinner", "kir", "spring", "sparkling"]
+  "tags": ["beforedinner", "kir", "spring"]
  },
  {
   "name": "Kir Royal",
@@ -1674,7 +1676,7 @@
   "preparation": "Pour Créme de Cassis into glass, top up with Champagne. For normal Kir: Use dry white wine instead of Champagne.",
   "id": 57,
   "slug": "kir-royal",
-  "tags": ["beforedinner", "spring", "sparkling", "kir"]
+  "tags": ["beforedinner", "spring", "sparkling", "kir", "festive"]
  },
  {
   "name": "Mint Julep",
@@ -1998,7 +2000,8 @@
    {
     "unit": "cl",
     "amount": 3.5,
-    "ingredient": "DiSaronno"
+    "ingredient": "Amaretto",
+    "label": "Disaronno"
    }
   ],
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
