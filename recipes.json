@@ -1644,7 +1644,8 @@
    {
     "unit": "cl",
     "amount": 9,
-    "ingredient": "Dry White Wine"
+    "ingredient": "White Wine",
+    "label": "Dry White Wine"
    },
    {
     "unit": "cl",
