@@ -2698,8 +2698,30 @@
   ],
   "garnish": "Lemon slice and a cherry",
   "preparation": "Build into highball glass filled with ice. Stir gently. Add a dash of Angostura bitters.",
-  "id": 56,
+  "id": 87,
   "slug": "tom-collins",
   "tags": []
+ },
+ {
+  "name": "Gin and Tonic",
+  "glass": "highball",
+  "category": "Longdrink",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 5,
+    "ingredient": "Gin"
+   },
+   {
+    "unit": "cl",
+    "amount": 10,
+    "ingredient": "Tonic Water"
+   }
+  ],
+  "garnish": "Lime wedge",
+  "preparation": "Place the ice cubes in a glass (the cubes should come near the top). Add the gin, then the tonic water. Stir well and serve right away.",
+  "id": 88,
+  "slug": "gin-tonic",
+  "tags": ["spring", "summer"]
  }
 ]
