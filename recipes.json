@@ -2601,5 +2601,72 @@
   "id": 84,
   "slug": "batida",
   "tags": ["allday", "brazilian", "summer"]
+ },
+ {
+  "name": "57 T-Bird",
+  "glass": "old-fashioned",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": 30,
+    "ingredient": "Vodka"
+   },
+   {
+    "unit": "ml",
+    "amount": 20,
+    "ingredient": "Amaretto"
+   },
+   {
+    "unit": "ml",
+    "amount": 20,
+    "ingredient": "Melon Liqueur"
+   },
+   {
+    "unit": "ml",
+    "amount": 20,
+    "ingredient": "Peach Schnapps"
+   },
+   {
+    "unit": "ml",
+    "amount": 50,
+    "ingredient": "Orange Juice"
+   }
+  ],
+  "preparation": "Shake all the ingredients. Strain into an old-fashioned glass filled with ice cubes.",
+  "id": 85,
+  "slug": "57-t-bird",
+  "tags": ["allday", "summer"]
+ },
+ {
+  "name": "Aqueduct",
+  "glass": "martini",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": 90,
+    "ingredient": "Vodka"
+   },
+   {
+    "unit": "ml",
+    "amount": 15,
+    "ingredient": "Triple Sec"
+   },
+   {
+    "unit": "ml",
+    "amount": 15,
+    "ingredient": "Apricot Brandy"
+   },
+   {
+    "unit": "ml",
+    "amount": 15,
+    "ingredient": "Lime Juice"
+   }
+  ],
+  "preparation": "Shake all the liquids together. Strain into a martini glass and serve.",
+  "id": 86,
+  "slug": "aqueduct",
+  "tags": ["allday"]
  }
 ]
