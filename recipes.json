@@ -2668,5 +2668,38 @@
   "id": 86,
   "slug": "aqueduct",
   "tags": ["allday"]
+ },
+ {
+  "name": "Tom Collins",
+  "glass": "highball",
+  "category": "Longdrink",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": 4.5,
+    "ingredient": "Gin",
+    "label": "Old Tom Gin"
+   },
+   {
+    "unit": "cl",
+    "amount": 3,
+    "ingredient": "Lemon Juice"
+   },
+   {
+    "unit": "cl",
+    "amount": 1.5,
+    "ingredient": "Sugar Syrup"
+   },
+   {
+    "unit": "cl",
+    "amount": 6,
+    "ingredient": "Soda Water"
+   }
+  ],
+  "garnish": "Lemon slice and a cherry",
+  "preparation": "Build into highball glass filled with ice. Stir gently. Add a dash of Angostura bitters.",
+  "id": 56,
+  "slug": "tom-collins",
+  "tags": []
  }
 ]
