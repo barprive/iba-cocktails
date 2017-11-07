@@ -51,5 +51,19 @@
   ],
   "datestart": "0320",
   "dateend": "0621"
+ },
+ {
+  "name": "Christmas",
+  "slug": "christmas",
+  "id": 6,
+  "tags": [
+   "christmas",
+   "festive",
+   "sparkly",
+   "bubbly",
+   "champagne"
+  ],
+  "datestart": "1201",
+  "dateend": "0105"
  }
 ]
