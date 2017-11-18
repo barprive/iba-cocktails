@@ -8,6 +8,7 @@
 
 const _ = require('lodash');
 const fs = require('fs');
+const removeAccents = require('remove-accents-diacritics');
 
 //// Open input point: cocktail recipes
 const recipes = require('./recipes');
@@ -67,6 +68,21 @@ gen_recipes = _.map(gen_recipes, recipe => {
     ingredient.ingredient = undefined;
     return ingredient;
   });
+  return recipe_duplicate;
+});
+
+//// Create id for every cocktail
+var i = 1;
+gen_recipes = _.map(gen_recipes, recipe => {
+  recipe_duplicate = _.cloneDeep(recipe);
+  recipe_duplicate.id = i++;
+  return recipe_duplicate;
+});
+
+//// Create slug for every cocktail
+gen_recipes = _.map(gen_recipes, recipe => {
+  recipe_duplicate = _.cloneDeep(recipe);
+  recipe_duplicate.slug = removeAccents.remove(recipe_duplicate.name).toLowerCase().replace(/ /g, "-").replace(/'/g, "").replace(/"/g, "");
   return recipe_duplicate;
 });
 

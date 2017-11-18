@@ -25,6 +25,7 @@
   },
   "homepage": "https://github.com/barprive/iba-cocktails#readme",
   "dependencies": {
-    "lodash": "^4.17.4"
+    "lodash": "^4.17.4",
+    "remove-accents-diacritics": "^1.0.2"
   }
 }
