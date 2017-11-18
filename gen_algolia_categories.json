@@ -22,6 +22,11 @@
  {
   "name": "Spring",
   "slug": "spring",
-  "id": 2
+  "id": 5
+ },
+ {
+  "name": "Christmas",
+  "slug": "christmas",
+  "id": 6
  }
 ]

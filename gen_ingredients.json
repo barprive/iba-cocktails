@@ -69,7 +69,7 @@
  },
  {
   "name": "Cocoa Liqueur",
-  "id": 330
+  "id": 345
  },
  {
   "name": "Coconut Milk",
@@ -224,8 +224,12 @@
   "id": 19
  },
  {
-  "name": "Milk",
+  "name": "Melon Liqueur",
   "id": 331
+ },
+ {
+  "name": "Milk",
+  "id": 346
  },
  {
   "name": "Mint",
@@ -354,6 +358,10 @@
  {
   "name": "Tomato Juice",
   "id": 143
+ },
+ {
+  "name": "Tonic Water",
+  "id": 343
  },
  {
   "name": "Triple Sec",

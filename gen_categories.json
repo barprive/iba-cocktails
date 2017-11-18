@@ -45,11 +45,26 @@
  {
   "name": "Spring",
   "slug": "spring",
-  "id": 2,
+  "id": 5,
   "tags": [
    "spring"
   ],
   "datestart": "0320",
   "dateend": "0621"
+ },
+ {
+  "name": "Christmas",
+  "slug": "christmas",
+  "id": 6,
+  "tags": [
+   "christmas",
+   "festive",
+   "sparkly",
+   "bubbly",
+   "champagne",
+   "newyear"
+  ],
+  "datestart": "1201",
+  "dateend": "0105"
  }
 ]
