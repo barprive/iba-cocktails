@@ -3200,11 +3200,12 @@
       },
       {
         "amount": "4",
-        "ingredient": "Lemons"
+        "ingredient": "Lemon",
+        "label": "Lemons"
       },
       {
         "amount": "2",
-        "ingredient": "Oranges",
+        "ingredient": "Orange",
         "label": "Large Oranges"
       },
       {
