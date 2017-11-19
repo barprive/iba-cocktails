@@ -2956,7 +2956,8 @@
     "preparation": "Pour the Brandy in an Irish coffee glass. Fill with hot apple cider. Top with whipped cream. Garnish with a cinnamon stick.",
     "tags": [
       "autumn",
-      "cider"
+      "cider",
+      "hot"
     ]
   },
   {
@@ -2986,6 +2987,242 @@
     "tags": [
       "autumn",
       "halloween"
+    ]
+  },
+  {
+    "name": "Hunter's Cocktail",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "37.5",
+        "ingredient": "Whisky"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Cherry Brandy"
+      }
+    ],
+    "garnish": "Cherry",
+    "preparation": "Pour the whiskey and cherry brandy into an old-fashioned glass with ice. Stir well. Garnish with a cherry.",
+    "tags": [
+      "autumn",
+      "halloween"
+    ]
+  },
+  {
+    "name": "Godfather",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "37.5",
+        "ingredient": "Whisky",
+        "label": "Scotch Whisky"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Amaretto"
+      }
+    ],
+    "garnish": "Lime wedge",
+    "preparation": "Build the ingredients in an old-fashioned glass with ice cubes. Stir well.",
+    "tags": [
+      "autumn"
+    ]
+  },
+  {
+    "name": "Ulanda",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "dash",
+        "amount": "1",
+        "ingredient": "Pastis"
+      },
+      {
+        "unit": "ml",
+        "amount": "50",
+        "ingredient": "Gin"
+      },
+      {
+        "unit": "ml",
+        "amount": "25",
+        "ingredient": "Triple Sec"
+      }
+    ],
+    "preparation": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass.",
+    "tags": [
+      "pastis"
+    ]
+  },
+  {
+    "name": "Roughneck",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "25",
+        "ingredient": "Whisky",
+        "label": "Bourbon Whisky"
+      },
+      {
+        "unit": "dash",
+        "amount": "1",
+        "ingredient": "Pastis"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Triple Sec"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Grapefruit Juice"
+      }
+    ],
+    "preparation": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass.",
+    "tags": [
+      "pastis"
+    ]
+  },
+  {
+    "name": "Broadway",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Apricot Brandy"
+      },
+      {
+        "unit": "ml",
+        "amount": "25",
+        "ingredient": "Whisky",
+        "label": "Bourbon Whisky"
+      },
+      {
+        "unit": "dash",
+        "amount": "1",
+        "ingredient": "Pastis"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Orange Juice"
+      }
+    ],
+    "garnish": "Maraschino berry or cherry",
+    "preparation": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a maraschino berry.",
+    "tags": [
+      "pastis"
+    ]
+  },
+  {
+    "name": "Linstead",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "dash",
+        "amount": "1",
+        "ingredient": "Pastis"
+      },
+      {
+        "unit": "ml",
+        "amount": "37.5",
+        "ingredient": "Whisky",
+        "label": "Scotch Whisky"
+      },
+      {
+        "unit": "ml",
+        "amount": "37.5",
+        "ingredient": "Pineapple Juice"
+      }
+    ],
+    "garnish": "Peel lemon",
+    "preparation": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lemon.",
+    "tags": [
+      "pastis"
+    ]
+  },
+  {
+    "name": "Bering Sea",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "dash",
+        "amount": "1",
+        "ingredient": "Pastis"
+      },
+      {
+        "unit": "ml",
+        "amount": "25",
+        "ingredient": "Vodka",
+        "label": "Absolut Vodka"
+      },
+      {
+        "unit": "ml",
+        "amount": "25",
+        "ingredient": "Vermouth",
+        "label": "Dry Vermouth"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Egg White"
+      }
+    ],
+    "garnish": "Maraschino berry or cherry",
+    "preparation": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a maraschino berry.",
+    "tags": [
+      "pastis"
+    ]
+  },
+  {
+    "name": "Mulled Wine",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "cl",
+        "amount": "150",
+        "ingredient": "Red Wine"
+      },
+      {
+        "amount": "4",
+        "ingredient": "Lemons"
+      },
+      {
+        "amount": "2",
+        "ingredient": "Oranges",
+        "label": "Large Oranges"
+      },
+      {
+        "amount": "16",
+        "ingredient": "Cloves"
+      },
+      {
+        "unit": "g",
+        "amount": "150",
+        "ingredient": "Caster Sugar"
+      }
+    ],
+    "garnish": "Lemon and orange slices",
+    "preparation": "<p>Serves 12.</p><p>Peel the zest very thinly from 3 lemons and 1 orange, and squeeze the juice. Thinly slice the remaining orange and lemon. Quarter the slices, put on a plate, cover and reserve for garnish.</p><p>Pour the wine, 1.2 litres (2 pints) of water, citrus peel and juices into a large pan, add the cloves and cinnamon sticks. Bring to simmering point, cover and keep at simmering for about an hour. Stir in sugar to taste.</p><p>Strain and serve hot with the reserved orange and lemon slices floating on the top.</p>",
+    "tags": [
+      "christmas",
+      "winter",
+      "hot"
     ]
   }
 ]

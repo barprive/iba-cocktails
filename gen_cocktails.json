@@ -2958,7 +2958,8 @@
   "preparation": "Pour the Brandy in an Irish coffee glass. Fill with hot apple cider. Top with whipped cream. Garnish with a cinnamon stick.",
   "tags": [
    "autumn",
-   "cider"
+   "cider",
+   "hot"
   ],
   "id": 91,
   "slug": "hot-apple-pie"
@@ -2993,5 +2994,257 @@
   ],
   "id": 92,
   "slug": "pumpkin-martini"
+ },
+ {
+  "name": "Hunter's Cocktail",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": "37.5",
+    "id": 13
+   },
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 354
+   }
+  ],
+  "garnish": "Cherry",
+  "preparation": "Pour the whiskey and cherry brandy into an old-fashioned glass with ice. Stir well. Garnish with a cherry.",
+  "tags": [
+   "autumn",
+   "halloween"
+  ],
+  "id": 93,
+  "slug": "hunters-cocktail"
+ },
+ {
+  "name": "Godfather",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": "37.5",
+    "label": "Scotch Whisky",
+    "id": 13
+   },
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 123
+   }
+  ],
+  "garnish": "Lime wedge",
+  "preparation": "Build the ingredients in an old-fashioned glass with ice cubes. Stir well.",
+  "tags": [
+   "autumn"
+  ],
+  "id": 94,
+  "slug": "godfather"
+ },
+ {
+  "name": "Ulanda",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "dash",
+    "amount": "1",
+    "id": 357
+   },
+   {
+    "unit": "ml",
+    "amount": "50",
+    "id": 1
+   },
+   {
+    "unit": "ml",
+    "amount": "25",
+    "id": 47
+   }
+  ],
+  "preparation": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass.",
+  "tags": [
+   "pastis"
+  ],
+  "id": 95,
+  "slug": "ulanda"
+ },
+ {
+  "name": "Roughneck",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": "25",
+    "label": "Bourbon Whisky",
+    "id": 13
+   },
+   {
+    "unit": "dash",
+    "amount": "1",
+    "id": 357
+   },
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 47
+   },
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 39
+   }
+  ],
+  "preparation": "Fill a mixing glass with ice cubes. Add all ingredients. Stir and strain into a chilled cocktail glass.",
+  "tags": [
+   "pastis"
+  ],
+  "id": 96,
+  "slug": "roughneck"
+ },
+ {
+  "name": "Broadway",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 57
+   },
+   {
+    "unit": "ml",
+    "amount": "25",
+    "label": "Bourbon Whisky",
+    "id": 13
+   },
+   {
+    "unit": "dash",
+    "amount": "1",
+    "id": 357
+   },
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 31
+   }
+  ],
+  "garnish": "Maraschino berry or cherry",
+  "preparation": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a maraschino berry.",
+  "tags": [
+   "pastis"
+  ],
+  "id": 97,
+  "slug": "broadway"
+ },
+ {
+  "name": "Linstead",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "dash",
+    "amount": "1",
+    "id": 357
+   },
+   {
+    "unit": "ml",
+    "amount": "37.5",
+    "label": "Scotch Whisky",
+    "id": 13
+   },
+   {
+    "unit": "ml",
+    "amount": "37.5",
+    "id": 32
+   }
+  ],
+  "garnish": "Peel lemon",
+  "preparation": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with lemon.",
+  "tags": [
+   "pastis"
+  ],
+  "id": 98,
+  "slug": "linstead"
+ },
+ {
+  "name": "Bering Sea",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "dash",
+    "amount": "1",
+    "id": 357
+   },
+   {
+    "unit": "ml",
+    "amount": "25",
+    "label": "Absolut Vodka",
+    "id": 2
+   },
+   {
+    "unit": "ml",
+    "amount": "25",
+    "label": "Dry Vermouth",
+    "id": 9
+   },
+   {
+    "unit": "ml",
+    "amount": "12.5",
+    "id": 374
+   }
+  ],
+  "garnish": "Maraschino berry or cherry",
+  "preparation": "Fill a shaker with ice cubes. Add all ingredients. Shake and strain into a chilled cocktail glass. Garnish with a maraschino berry.",
+  "tags": [
+   "pastis"
+  ],
+  "id": 99,
+  "slug": "bering-sea"
+ },
+ {
+  "name": "Mulled Wine",
+  "glass": "zombie-glass",
+  "category": "All Day Cocktail",
+  "ingredients": [
+   {
+    "unit": "cl",
+    "amount": "150",
+    "id": 375
+   },
+   {
+    "amount": "4",
+    "id": 376
+   },
+   {
+    "amount": "2",
+    "label": "Large Oranges",
+    "id": 377
+   },
+   {
+    "amount": "16",
+    "id": 378
+   },
+   {
+    "unit": "g",
+    "amount": "150",
+    "id": 379
+   }
+  ],
+  "garnish": "Lemon and orange slices",
+  "preparation": "<p>Serves 12.</p><p>Peel the zest very thinly from 3 lemons and 1 orange, and squeeze the juice. Thinly slice the remaining orange and lemon. Quarter the slices, put on a plate, cover and reserve for garnish.</p><p>Pour the wine, 1.2 litres (2 pints) of water, citrus peel and juices into a large pan, add the cloves and cinnamon sticks. Bring to simmering point, cover and keep at simmering for about an hour. Stir in sugar to taste.</p><p>Strain and serve hot with the reserved orange and lemon slices floating on the top.</p>",
+  "tags": [
+   "christmas",
+   "winter",
+   "hot"
+  ],
+  "id": 100,
+  "slug": "mulled-wine"
  }
 ]
