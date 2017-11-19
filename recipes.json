@@ -693,7 +693,8 @@
     "id": 22,
     "slug": "espresso-martini",
     "tags": [
-      "afterdinner"
+      "afterdinner",
+      "hot"
     ]
   },
   {
@@ -3008,8 +3009,7 @@
     "garnish": "Cherry",
     "preparation": "Pour the whiskey and cherry brandy into an old-fashioned glass with ice. Stir well. Garnish with a cherry.",
     "tags": [
-      "autumn",
-      "halloween"
+      "autumn"
     ]
   },
   {

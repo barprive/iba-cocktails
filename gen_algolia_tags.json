@@ -21,6 +21,9 @@
   "name": "afterdinner"
  },
  {
+  "name": "hot"
+ },
+ {
   "name": "sparkling"
  },
  {
@@ -34,9 +37,6 @@
  },
  {
   "name": "coffee"
- },
- {
-  "name": "hot"
  },
  {
   "name": "kir"
