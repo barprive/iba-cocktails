@@ -2934,5 +2934,58 @@
       "brazilian",
       "summer"
     ]
+  },
+  {
+    "name": "Hot Apple Pie",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "50",
+        "ingredient": "Brandy"
+      },
+      {
+        "unit": "ml",
+        "amount": "100",
+        "ingredient": "Apple Cider",
+        "label": "Apple Cider (Hot)"
+      }
+    ],
+    "garnish": "Whipped cream and a stick of cinnamon",
+    "preparation": "Pour the Brandy in an Irish coffee glass. Fill with hot apple cider. Top with whipped cream. Garnish with a cinnamon stick.",
+    "tags": [
+      "autumn",
+      "cider"
+    ]
+  },
+  {
+    "name": "Pumpkin Martini",
+    "glass": "zombie-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Cream Liqueur"
+      },
+      {
+        "unit": "ml",
+        "amount": "50",
+        "ingredient": "Vanilla Vodka"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Pumpkin Liqueur",
+        "label": "Pumpkin Liqueur or Pumpkin Spice Syrup"
+      }
+    ],
+    "garnish": "Whipped cream and a stick of cinnamon",
+    "preparation": "Pour the cream liqueur and vodka into a cocktail shaker filled with ice. Shake well. Add the pumpkin liqueur or syrup. Shake again. Strain into a chilled cocktail glass. Top with a teaspoon of whipped cream. Garnish with a cinnamon stick.",
+    "tags": [
+      "autumn",
+      "halloween"
+    ]
   }
 ]
