@@ -1,70 +1,70 @@
 [
- {
-  "name": "Halloween",
-  "slug": "halloween",
-  "id": 1,
-  "tags": [
-   "halloween"
-  ],
-  "datestart": "1011",
-  "dateend": "1103"
- },
- {
-  "name": "Summer",
-  "slug": "summer",
-  "id": 2,
-  "tags": [
-   "summer",
-   "sunshine",
-   "sun"
-  ],
-  "datestart": "0621",
-  "dateend": "0922"
- },
- {
-  "name": "Autumn",
-  "slug": "autumn",
-  "id": 3,
-  "tags": [
-   "autumn",
-   "fall"
-  ],
-  "datestart": "0922",
-  "dateend": "1221"
- },
- {
-  "name": "Winter",
-  "slug": "winter",
-  "id": 4,
-  "tags": [
-   "winter"
-  ],
-  "datestart": "1221",
-  "dateend": "0320"
- },
- {
-  "name": "Spring",
-  "slug": "spring",
-  "id": 5,
-  "tags": [
-   "spring"
-  ],
-  "datestart": "0320",
-  "dateend": "0621"
- },
- {
-  "name": "Christmas",
-  "slug": "christmas",
-  "id": 6,
-  "tags": [
-   "christmas",
-   "festive",
-   "sparkly",
-   "bubbly",
-   "champagne",
-   "newyear"
-  ],
-  "datestart": "1201",
-  "dateend": "0105"
- }
+  {
+    "name": "Halloween",
+    "tags": [
+      "halloween"
+    ],
+    "datestart": "1011",
+    "dateend": "1103"
+  },
+  {
+    "name": "Summer",
+    "tags": [
+      "summer",
+      "sunshine",
+      "sun"
+    ],
+    "datestart": "0621",
+    "dateend": "0922"
+  },
+  {
+    "name": "Autumn",
+    "tags": [
+      "autumn",
+      "fall"
+    ],
+    "datestart": "0922",
+    "dateend": "1221"
+  },
+  {
+    "name": "Winter",
+    "tags": [
+      "winter"
+    ],
+    "datestart": "1221",
+    "dateend": "0320"
+  },
+  {
+    "name": "Spring",
+    "tags": [
+      "spring"
+    ],
+    "datestart": "0320",
+    "dateend": "0621"
+  },
+  {
+    "name": "Christmas",
+    "tags": [
+      "christmas",
+      "festive",
+      "sparkly",
+      "bubbly",
+      "champagne",
+      "newyear"
+    ],
+    "datestart": "1201",
+    "dateend": "0105"
+  },
+  {
+    "name": "Longdrink",
+    "tags": [
+      "longdrink"
+    ]
+  },
+  {
+    "name": "Brazilian",
+    "tags": [
+      "longdrink"
+    ]
+  }
 ]

@@ -121,8 +121,11 @@ _.each(recipes, recipe => {
 gen_algolia_tags = _.uniqBy(gen_algolia_tags, "name");
 
 //// Copy categories into generated file
+var i = 1;
 gen_categories = _.map(categories, category => {
   category_duplicate = _.cloneDeep(category);
+  category_duplicate.slug = removeAccents.remove(category_duplicate.name).toLowerCase().replace(/ /g, "-").replace(/'/g, "").replace(/"/g, "");
+  category_duplicate.id = i++;
   return category_duplicate;
 });
 

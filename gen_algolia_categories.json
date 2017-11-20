@@ -28,5 +28,15 @@
   "name": "Christmas",
   "slug": "christmas",
   "id": 6
+ },
+ {
+  "name": "Longdrink",
+  "slug": "longdrink",
+  "id": 7
+ },
+ {
+  "name": "Brazilian",
+  "slug": "brazilian",
+  "id": 8
  }
 ]

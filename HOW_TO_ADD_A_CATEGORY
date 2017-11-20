@@ -1,6 +1,6 @@
 # Add a new category to categories.json
 To add a new category you need to edit just one file: categories.json.
-You add an entry at the end of the file by copying the last entry and incrementing the id.
+You add an entry at the end of the file by copying the last entry.
 
 # Generating all databases
 Once you have done that, run 'npm start' in the console and it will generate all the files needed as gen_*.
