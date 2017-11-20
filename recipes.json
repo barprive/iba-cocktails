@@ -22,8 +22,6 @@
     ],
     "garnish": "Lemon twist",
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 1,
-    "slug": "vesper",
     "tags": [
       "beforedinner"
     ]
@@ -51,8 +49,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
-    "id": 2,
-    "slug": "bacardi",
     "tags": [
       "beforedinner"
     ]
@@ -81,8 +77,6 @@
     ],
     "garnish": "Half an orange slice",
     "preparation": "Build into old-fashioned glass filled with ice. Stir gently.",
-    "id": 3,
-    "slug": "negroni",
     "tags": [
       "beforedinner"
     ]
@@ -108,8 +102,6 @@
       }
     ],
     "preparation": "Stir all ingredients with ice and strain into a cocktail glass.",
-    "id": 4,
-    "slug": "rose",
     "tags": []
   },
   {
@@ -138,8 +130,6 @@
     ],
     "garnish": "Orange slice and cherry",
     "preparation": "Place sugar cube in old-fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolve. Fill the glass with ice cubes and add whisky.",
-    "id": 5,
-    "slug": "old-fashioned",
     "tags": [
       "beforedinner"
     ]
@@ -176,8 +166,6 @@
     ],
     "garnish": "Cherry and lemon twist",
     "preparation": "Stir all ingredients with ice and strain into cocktail glass.",
-    "id": 6,
-    "slug": "tuxedo",
     "tags": [
       "allday"
     ]
@@ -212,10 +200,9 @@
     ],
     "garnish": "Mint leaves and lemon slice",
     "preparation": "Muddle mint springs with sugar and lime juice. Add splash of soda water and fill glass with cracked ice. Pour rum and top with soda water. Serve with straw.",
-    "id": 7,
-    "slug": "mojito",
     "tags": [
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -241,9 +228,9 @@
     ],
     "garnish": "Lemon twist",
     "preparation": "Build into highball glass with ice cubes. Stir gently. If required, add dashes of Angostura bitters.",
-    "id": 8,
-    "slug": "horses-neck",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Planter's Punch",
@@ -287,10 +274,9 @@
     ],
     "garnish": "Pineapple slice and a cherry",
     "preparation": "Pour all ingredients, except the bitters, into shaker filled with ice. Shake. Pour into large glass, filled with ice. Add Angostura bitters, “on top”.",
-    "id": 9,
-    "slug": "planters-punch",
     "tags": [
-      "punch"
+      "punch",
+      "longdrink"
     ]
   },
   {
@@ -316,9 +302,9 @@
     ],
     "garnish": "Lime wedge",
     "preparation": "Build all ingredients in a rock glass filled with ice.",
-    "id": 10,
-    "slug": "sea-breeze",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Pisco Sour",
@@ -347,8 +333,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top.",
-    "id": 11,
-    "slug": "pisco-sour",
     "tags": [
       "allday"
     ]
@@ -400,9 +384,9 @@
     ],
     "garnish": "Lemon twist",
     "preparation": "Add all ingredients into highball glass filled with ice. Stir gently. Serve with straw.",
-    "id": 12,
-    "slug": "long-island-iced-tea",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Clover Club",
@@ -431,8 +415,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into cocktail glass.",
-    "id": 13,
-    "slug": "clover-club",
     "tags": [
       "allday"
     ]
@@ -459,8 +441,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into a cocktail glass.",
-    "id": 14,
-    "slug": "angel-face",
     "tags": [
       "allday"
     ]
@@ -483,8 +463,6 @@
     ],
     "garnish": "Optional orange twist",
     "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: a Buck’s Fizz and a Mimosa are the same drink.",
-    "id": 15,
-    "slug": "mimosa",
     "tags": [
       "festive"
     ]
@@ -513,8 +491,6 @@
     ],
     "garnish": "Half an orange slice and cherry",
     "preparation": "Dash egg white (Optional: if used shake little harder to foam up the egg white). Pour all ingredients into cocktail shaker filled with ice. Shake. Strain into cocktail glass. If served ‘On the rocks’, strain ingredients into old-fashioned glass filled with ice.",
-    "id": 16,
-    "slug": "whisky-sour",
     "tags": [
       "autumn",
       "beforedinner"
@@ -538,8 +514,6 @@
     ],
     "garnish": "Orange slice",
     "preparation": "Build into a highball glass filled with ice. Stir gently.",
-    "id": 17,
-    "slug": "screwdriver",
     "tags": [
       "allday"
     ]
@@ -567,10 +541,9 @@
     ],
     "garnish": "Lime wedge",
     "preparation": "Build all ingredients in a highball glass filled with ice.",
-    "id": 18,
-    "slug": "cuba-libre",
     "tags": [
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -597,8 +570,6 @@
     ],
     "garnish": "Cherry",
     "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass.",
-    "id": 19,
-    "slug": "manhattan",
     "tags": [
       "beforedinner"
     ]
@@ -626,8 +597,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into cocktail glass. Sprinkle with fresh ground nutmeg.",
-    "id": 20,
-    "slug": "porto-flip",
     "tags": [
       "afterdinner"
     ]
@@ -660,9 +629,9 @@
     ],
     "garnish": "Lemon slice",
     "preparation": "Shake all ingredients with ice cubes, except soda water. Pour into tumbler. Top with soda water.",
-    "id": 21,
-    "slug": "gin-fizz",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Espresso Martini",
@@ -690,8 +659,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 22,
-    "slug": "espresso-martini",
     "tags": [
       "afterdinner",
       "hot"
@@ -720,8 +687,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into cocktail glass rimmed with salt (note:Fruit Margarita - blend selected fruit with the above recipe).",
-    "id": 23,
-    "slug": "margarita",
     "tags": [
       "summer",
       "allday"
@@ -753,8 +718,6 @@
       }
     ],
     "preparation": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently.",
-    "id": 24,
-    "slug": "french-75",
     "tags": [
       "sparkling"
     ]
@@ -786,8 +749,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 25,
-    "slug": "yellow-bird",
     "tags": [
       "allday"
     ]
@@ -815,10 +776,9 @@
     ],
     "garnish": "Pineapple slice and a cherry",
     "preparation": "Blend all the ingredients with ice in a electric blender, pour into a large goblet or Hurricane glass and serve with straws.",
-    "id": 26,
-    "slug": "pina-colada",
     "tags": [
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -844,8 +804,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 27,
-    "slug": "aviation",
     "tags": [
       "allday"
     ]
@@ -867,8 +825,6 @@
       }
     ],
     "preparation": "Pour the peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)",
-    "id": 28,
-    "slug": "bellini",
     "tags": [
       "sparkling"
     ]
@@ -895,8 +851,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
-    "id": 29,
-    "slug": "grasshopper",
     "tags": [
       "afterdinner"
     ]
@@ -924,10 +878,9 @@
     ],
     "garnish": "Orange slice and a cherry",
     "preparation": "Build tequila and orange juice into highball with ice cubes. Add a splash of grenadine to create sunrise effect. Do not stir.",
-    "id": 30,
-    "slug": "tequila-sunrise",
     "tags": [
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -952,8 +905,6 @@
       }
     ],
     "preparation": "Shake and strain into a cocktail glass.",
-    "id": 31,
-    "slug": "daiquiri",
     "tags": [
       "beforedinner"
     ]
@@ -977,8 +928,6 @@
     ],
     "garnish": "Lemon twist",
     "preparation": "Build into old-fashioned glass filled with ice. Stir gently.",
-    "id": 32,
-    "slug": "rusty-nail",
     "tags": [
       "afterdinner"
     ]
@@ -1008,8 +957,6 @@
       }
     ],
     "preparation": "Layer ingredients one at a time starting with Kahlúa, followed by Baileys Irish Cream and top with Grand Marnier. Flame the Grand Marnier, serve while the flame is still on, accompanied with a straw on side plate.",
-    "id": 33,
-    "slug": "b52",
     "tags": [
       "afterdinner",
       "shooter",
@@ -1033,8 +980,6 @@
       }
     ],
     "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass.",
-    "id": 34,
-    "slug": "stinger",
     "tags": [
       "afterdinner"
     ]
@@ -1066,8 +1011,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
-    "id": 35,
-    "slug": "golden-dream",
     "tags": [
       "afterdinner"
     ]
@@ -1089,8 +1032,6 @@
       }
     ],
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
-    "id": 36,
-    "slug": "god-mother",
     "tags": [
       "autumn"
     ]
@@ -1117,8 +1058,6 @@
     ],
     "garnish": "Half an orange slice",
     "preparation": "Build into an old-fashioned glass filled with ice. Top with a splash of soda water.",
-    "id": 37,
-    "slug": "spritz-veneziano",
     "tags": [
       "sparkling"
     ]
@@ -1151,8 +1090,6 @@
     ],
     "garnish": "Lemon slice and two blackberries",
     "preparation": "Build over crushed ice, in a rock glass. Stir, then pour the blackberry liqueur over the top of the drink in a circular fashion.",
-    "id": 38,
-    "slug": "bramble",
     "tags": [
       "allday"
     ]
@@ -1178,8 +1115,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass. Sprinkle with fresh ground nutmeg.",
-    "id": 39,
-    "slug": "alexander",
     "tags": []
   },
   {
@@ -1206,8 +1141,6 @@
     ],
     "garnish": "Lemon slice",
     "preparation": "Shake and strain into a chilled cocktail glass rimmed with sugar.",
-    "id": 40,
-    "slug": "lemon-drop-martini",
     "tags": [
       "allday"
     ]
@@ -1234,8 +1167,6 @@
       }
     ],
     "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass. Squeeze oil from lemon peel onto the drink.",
-    "id": 41,
-    "slug": "french-martini",
     "tags": [
       "beforedinner"
     ]
@@ -1257,8 +1188,6 @@
       }
     ],
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently. Note: for White Russian, float fresh cream on the top and stir gently.",
-    "id": 42,
-    "slug": "black-russian",
     "tags": [
       "afterdinner"
     ]
@@ -1299,11 +1228,10 @@
     ],
     "garnish": "Celery and optionally lemon wedge",
     "preparation": "Stir gently, pour all ingredients into highball glass.",
-    "id": 43,
-    "slug": "bloody-mary",
     "tags": [
       "halloween",
-      "autumn"
+      "autumn",
+      "longdrink"
     ]
   },
   {
@@ -1340,10 +1268,9 @@
     ],
     "garnish": "Pineapple spear, mint leaves and lime wedge",
     "preparation": "Shake and strain into highball glass. Serve with straw.",
-    "id": 44,
-    "slug": "mai-tai",
     "tags": [
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -1377,8 +1304,6 @@
     ],
     "garnish": "Cocktail cherry",
     "preparation": "Pour pineapple juice, lime juice, gold rum and Galliano into the glass. Stir together. Fill up the glass with prosecco.",
-    "id": 45,
-    "slug": "barracuda",
     "tags": [
       "summer",
       "sparkling"
@@ -1412,10 +1337,9 @@
     ],
     "garnish": "Orange slice",
     "preparation": "Build all ingredients in a highball glass filled with ice.",
-    "id": 46,
-    "slug": "sex-on-the-beach",
     "tags": [
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -1443,8 +1367,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 47,
-    "slug": "monkey-gland",
     "tags": [
       "allday"
     ]
@@ -1471,8 +1393,6 @@
     ],
     "garnish": "Mint leaves",
     "preparation": "Stir in mixing glass with ice cubes. Strain into a cocktail glass.",
-    "id": 48,
-    "slug": "derby",
     "tags": [
       "allday"
     ]
@@ -1499,8 +1419,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into cocktail glass.",
-    "id": 49,
-    "slug": "sidecar",
     "tags": [
       "allday"
     ]
@@ -1532,8 +1450,6 @@
       }
     ],
     "preparation": "Warm the Irish Whisky over a burner. Pour into the glass (for hot drink) hot coffee, and add a teaspoon of sugar. Float Cream on top.",
-    "id": 50,
-    "slug": "irish-coffee",
     "tags": [
       "autumn",
       "coffee",
@@ -1566,8 +1482,6 @@
     ],
     "garnish": "Lemon twist",
     "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye Whisky substituted cognac as it became hard to obtain.",
-    "id": 51,
-    "slug": "sazerac",
     "tags": [
       "afterdinner"
     ]
@@ -1595,8 +1509,6 @@
     ],
     "garnish": "Half an orange slice",
     "preparation": "Build into old fashioned glass filled with ice cubes. Add a splash of soda water.",
-    "id": 52,
-    "slug": "americano",
     "tags": [
       "beforedinner"
     ]
@@ -1649,9 +1561,9 @@
     ],
     "garnish": "Pineapple slice and a cherry",
     "preparation": "Shake with ice cubes. Strain into highball glass.",
-    "id": 53,
-    "slug": "singapore-sling",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "French Connection",
@@ -1670,8 +1582,6 @@
       }
     ],
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
-    "id": 54,
-    "slug": "french-connection",
     "tags": []
   },
   {
@@ -1701,9 +1611,9 @@
     ],
     "garnish": "Lime slice",
     "preparation": "Combine the vodka and ginger beer. Add lime juice.",
-    "id": 55,
-    "slug": "moscow-mule",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "John Collins",
@@ -1733,9 +1643,9 @@
     ],
     "garnish": "Lemon slice and a cherry",
     "preparation": "Build into highball glass filled with ice. Stir gently. Add a dash of Angostura bitters. (Note: Use Old Tom Gin for Tom Collins)",
-    "id": 56,
-    "slug": "john-collins",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Kir",
@@ -1755,8 +1665,6 @@
       }
     ],
     "preparation": "Pour Créme de Cassis into glass, top up with white wine. For Kir Royal: Use champagne instead of white wine.",
-    "id": 57,
-    "slug": "kir",
     "tags": [
       "beforedinner",
       "kir",
@@ -1780,8 +1688,6 @@
       }
     ],
     "preparation": "Pour Créme de Cassis into glass, top up with Champagne. For normal Kir: Use dry white wine instead of Champagne.",
-    "id": 57,
-    "slug": "kir-royal",
     "tags": [
       "beforedinner",
       "spring",
@@ -1816,9 +1722,9 @@
     ],
     "garnish": "Mint spring",
     "preparation": "In a highball glass gently muddle the mint, sugar and water. Fill the glass with cracked ice, add Bourbon and stir well until the glass is frost.",
-    "id": 58,
-    "slug": "mint-julep",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Tommy's Margarita",
@@ -1841,8 +1747,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 59,
-    "slug": "tommys-margarita",
     "tags": [
       "allday",
       "summer"
@@ -1870,8 +1774,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
-    "id": 60,
-    "slug": "paradise",
     "tags": [
       "allday"
     ]
@@ -1900,8 +1802,6 @@
     ],
     "garnish": "Green olive",
     "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass.",
-    "id": 61,
-    "slug": "dirty-martini",
     "tags": [
       "beforedinner"
     ]
@@ -1932,8 +1832,6 @@
     ],
     "garnish": "Orange slice and a cherry",
     "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne.",
-    "id": 62,
-    "slug": "champagne-cocktail",
     "tags": [
       "sparkling"
     ]
@@ -1966,8 +1864,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled large cocktail glass.",
-    "id": 63,
-    "slug": "mary-pickford",
     "tags": [
       "allday"
     ]
@@ -2000,8 +1896,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into a double cocktail glass.",
-    "id": 64,
-    "slug": "hemingway-special",
     "tags": [
       "allday"
     ]
@@ -2024,9 +1918,9 @@
     ],
     "garnish": "Lime wedge",
     "preparation": "Build into highball glass filled with ice. Add rum first and top it with ginger beer.",
-    "id": 65,
-    "slug": "dark-n-stormy",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Ramos Gin Fizz",
@@ -2076,9 +1970,9 @@
       }
     ],
     "preparation": "Pour all ingredients (except soda) in a mixing glass, dry shake (no ice) for two minutes, add ice and hard shake for another minute. Strain into a highball glass without ice, top with soda.",
-    "id": 66,
-    "slug": "ramos-gin-fizz",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Russian Spring Punch",
@@ -2108,8 +2002,6 @@
     ],
     "garnish": "Lemon slice and a blackberry",
     "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine.",
-    "id": 67,
-    "slug": "russian-spring-punch",
     "tags": [
       "punch"
     ]
@@ -2132,8 +2024,6 @@
       }
     ],
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
-    "id": 68,
-    "slug": "god-father",
     "tags": [
       "autumn"
     ]
@@ -2168,8 +2058,6 @@
     ],
     "garnish": "Lime slice",
     "preparation": "Shake with ice cubes. Strain into a large cocktail glass.",
-    "id": 69,
-    "slug": "cosmopolitan",
     "tags": [
       "allday"
     ]
@@ -2192,8 +2080,6 @@
       }
     ],
     "preparation": "Stir in mixing glass with ice cubes. Strain into chilled martini glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.",
-    "id": 70,
-    "slug": "dry-martini",
     "tags": [
       "beforedinner"
     ]
@@ -2225,8 +2111,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
-    "id": 71,
-    "slug": "between-the-sheets",
     "tags": [
       "allday"
     ]
@@ -2261,8 +2145,6 @@
     ],
     "garnish": "Lemon twist and a cherry",
     "preparation": "Shake with ice cubes. Strain into chilled cocktail glass.",
-    "id": 72,
-    "slug": "casino",
     "tags": [
       "allday"
     ]
@@ -2287,8 +2169,6 @@
       }
     ],
     "preparation": "Cut the half lime in 4 wedges. Place lime and sugar in old fashion glass and muddle. Fill glass with ice and Cachaca.",
-    "id": 73,
-    "slug": "caipirinha",
     "tags": [
       "allday",
       "brazilian",
@@ -2343,8 +2223,6 @@
     ],
     "garnish": "Lime wedge and a green or red chili",
     "preparation": "Chop the onion finely. Shake with ice cubes. Strain into a highball glass, filled with ice.",
-    "id": 74,
-    "slug": "vampiro",
     "tags": [
       "halloween"
     ]
@@ -2371,8 +2249,6 @@
       }
     ],
     "preparation": "Shake and strain into a chilled cocktail glass.",
-    "id": 75,
-    "slug": "kamikaze",
     "tags": [
       "allday"
     ]
@@ -2399,8 +2275,6 @@
       }
     ],
     "preparation": "Shake with ice cubes. Strain into large cocktail glass.",
-    "id": 76,
-    "slug": "white-lady",
     "tags": [
       "allday"
     ]
@@ -2428,8 +2302,6 @@
     ],
     "garnish": "Orance slice and a cherry",
     "preparation": "Build vodka and orange juice into a highball glass filled with ice. Stir gently and float Galliano on top.",
-    "id": 77,
-    "slug": "harvey-wallbanger",
     "tags": [
       "allday"
     ]
@@ -2503,8 +2375,6 @@
       }
     ],
     "preparation": "Place the brown sugar and the lemon juice into a jug and stir to dissolve. Place the lemon mixture and all the other ingredients into a large bowl and stir well. Either serve the punch in the bowl or pour into the hollowed-out pumpkin. Add the lemon and lime pieces and serve.",
-    "id": 78,
-    "slug": "zombie-punch",
     "tags": [
       "halloween",
       "punch"
@@ -2544,8 +2414,6 @@
     ],
     "garnish": "One peeled lychee, 3mg of strawberry jam and one blueberry.",
     "preparation": "Place the vodka, lemon juice, vanilla syrup, blackberry liqueur and apple juice into a cocktail shaker filled with ice and shake well. Pour into a cocktail glass. To garnish, cut a small hole into the lychee. Fill with strawberry jam, then stick the blueberry into the jam to create an 'eyeball'. Float the 'eyeball' in the cocktail and serve.",
-    "id": 79,
-    "slug": "witchcraft",
     "tags": [
       "halloween",
       "punch"
@@ -2602,8 +2470,6 @@
     ],
     "garnish": "Halloween jellies and crushed ice.",
     "preparation": "<p>Scoop the flesh out and chop the pumpkin, remove fibres and seeds. Toast it and reserve for garnish.</p><p>For the spiced pumpkin purée, bring a small amount of water to a simmer in a pan. Suspend a steaming basket above the water (do not allow the base of the basket to touch the water). Add the chopped pumpkin and steam for 15-20 minutes, or until tender. Remove from the steaming basket and set aside to cool.</p><p>When the pumpkin has cooled, transfer it to the bowl of a food processor. Add the orange juice, allspice and honey and blend until smooth and well combined.</p><p>For the cocktail, mix together the pumpkin purée, pineapple juice, grenadine and crushed ice in a large jug until well combined.</p><p>Chill in the fridge for at least one hour.</p><p>To serve, pour the mixture into a large bowl (preferably skull-shaped). The mixture should half-fill the bowl. Top up with the lemonade. Mix well. Ladle into cups and garnish with Halloween jellies.</p>",
-    "id": 80,
-    "slug": "skull-punch",
     "tags": [
       "halloween",
       "mocktail",
@@ -2634,8 +2500,6 @@
     ],
     "garnish": "Large handful of gummi worms",
     "preparation": "Pour all of the ingredients into a large glass bowl and mix until well combined. Drape the gummi worms over the edge of the bowl. Recipe Tips: To make it extra spooky – rinse a food-grade rubber glove and turn it inside out. Fill with water, tie the top with an elastic band and freeze until solid. Turn the frozen ‘hand’ out into the punch.",
-    "id": 81,
-    "slug": "halloween-mocktail-punch",
     "tags": [
       "halloween",
       "mocktail",
@@ -2671,8 +2535,6 @@
     ],
     "garnish": "Large handful of gummi worms",
     "preparation": "Pour all of the ingredients into a large glass bowl and mix until well combined. Drape the gummi worms over the edge of the bowl. Recipe Tips: To make it extra spooky – rinse a food-grade rubber glove and turn it inside out. Fill with water, tie the top with an elastic band and freeze until solid. Turn the frozen ‘hand’ out into the punch.",
-    "id": 82,
-    "slug": "halloween-punch",
     "tags": [
       "halloween",
       "punch"
@@ -2729,8 +2591,6 @@
     ],
     "garnish": "Ice, toasted pumpkin seeds and a pinch of freshly grated nutmeg.",
     "preparation": "<p>Scoop the flesh out and chop the pumpkin, remove fibres and seeds. Toast it and reserve for garnish.</p><p>For the spiced pumpkin purée, bring a small amount of water to a simmer in a pan. Suspend a steaming basket above the water (do not allow the base of the basket to touch the water). Add the chopped pumpkin and steam for 15-20 minutes, or until tender. Remove from the steaming basket and set aside to cool.</p><p>When the pumpkin has cooled, transfer it to the bowl of a food processor. Add the orange juice, allspice and honey and blend until smooth and well combined.</p><p>For the cocktail, pour the bourbon, sour cherry liqueur, herb liqueur and pumpkin purée into a cocktail shaker. Add ice and shake well.</p><p>To serve, strain the mixture into a flute glass. Garnish the surface of the cocktail with a few toasted pumpkin seeds. Dust with a little freshly grated nutmeg.</p>",
-    "id": 83,
-    "slug": "bewitched",
     "tags": [
       "halloween",
       "punch"
@@ -2768,8 +2628,6 @@
     ],
     "garnish": "Lime wedge",
     "preparation": "Mix and pour into chilled glass full of ice.",
-    "id": 84,
-    "slug": "batida",
     "tags": [
       "allday",
       "brazilian",
@@ -2808,8 +2666,6 @@
       }
     ],
     "preparation": "Shake all the ingredients. Strain into an old-fashioned glass filled with ice cubes.",
-    "id": 85,
-    "slug": "57-t-bird",
     "tags": [
       "allday",
       "summer"
@@ -2842,8 +2698,6 @@
       }
     ],
     "preparation": "Shake all the liquids together. Strain into a martini glass and serve.",
-    "id": 86,
-    "slug": "aqueduct",
     "tags": [
       "allday"
     ]
@@ -2877,9 +2731,9 @@
     ],
     "garnish": "Lemon slice and a cherry",
     "preparation": "Build into highball glass filled with ice. Stir gently. Add a dash of Angostura bitters.",
-    "id": 87,
-    "slug": "tom-collins",
-    "tags": []
+    "tags": [
+      "longdrink"
+    ]
   },
   {
     "name": "Gin and Tonic",
@@ -2899,11 +2753,10 @@
     ],
     "garnish": "Lime wedge",
     "preparation": "Place the ice cubes in a glass (the cubes should come near the top). Add the gin, then the tonic water. Stir well and serve right away.",
-    "id": 88,
-    "slug": "gin-tonic",
     "tags": [
       "spring",
-      "summer"
+      "summer",
+      "longdrink"
     ]
   },
   {
@@ -3191,7 +3044,8 @@
       },
       {
         "amount": "16",
-        "ingredient": "Cloves"
+        "ingredient": "Clove",
+        "label": "Cloves"
       },
       {
         "unit": "g",
@@ -3205,6 +3059,50 @@
       "christmas",
       "winter",
       "hot"
+    ]
+  },
+  {
+    "name": "Electric Iced Tea",
+    "glass": "collins-glass",
+    "category": "All Day Cocktail",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Vodka"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Gin"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Whisky",
+        "label": "Bourbon Whisky"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Triple Sec"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Lemon Juice",
+        "label": "Fresh Lemon Juice"
+      },
+      {
+        "amount": "Fill with",
+        "ingredient": "Soda Water"
+      }
+    ],
+    "garnish": "Lemon wedge",
+    "preparation": "Shake the vodka, gin, bourbon, triple sec, and lemon juice with ice; then strain into a chilled collins glass filled with ice. Add soda to fill, gently stir, and garnish with a lemon wedge.",
+    "tags": [
+      "summer",
+      "longdrink"
     ]
   }
 ]
