@@ -492,7 +492,8 @@
   "garnish": "Optional orange twist",
   "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: a Buck’s Fizz and a Mimosa are the same drink.",
   "tags": [
-   "festive"
+   "festive",
+   "champagne"
   ],
   "id": 15,
   "slug": "mimosa"
@@ -765,7 +766,8 @@
   ],
   "preparation": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently.",
   "tags": [
-   "sparkling"
+   "sparkling",
+   "champagne"
   ],
   "id": 24,
   "slug": "french-75"
@@ -880,7 +882,8 @@
   ],
   "preparation": "Pour the peach puree into chilled glass and add sparkling wine. Stir gently. Variations: Puccini (fresh mandarin juice), Rossini (fresh strawberry puree), Tintoretto (fresh pomegranate juice)",
   "tags": [
-   "sparkling"
+   "sparkling",
+   "prosecco"
   ],
   "id": 28,
   "slug": "bellini"
@@ -1807,7 +1810,8 @@
    "spring",
    "sparkling",
    "kir",
-   "festive"
+   "festive",
+   "champagne"
   ],
   "id": 58,
   "slug": "kir-royal"
@@ -1957,7 +1961,8 @@
   "garnish": "Orange slice and a cherry",
   "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne.",
   "tags": [
-   "sparkling"
+   "sparkling",
+   "champagne"
   ],
   "id": 63,
   "slug": "champagne-cocktail"
