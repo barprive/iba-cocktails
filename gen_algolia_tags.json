@@ -42,6 +42,9 @@
   "name": "shot"
  },
  {
+  "name": "winter"
+ },
+ {
   "name": "halloween"
  },
  {
@@ -72,6 +75,6 @@
   "name": "christmas"
  },
  {
-  "name": "winter"
+  "name": "chocolate"
  }
 ]

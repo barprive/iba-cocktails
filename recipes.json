@@ -2,7 +2,6 @@
   {
     "name": "Vesper",
     "glass": "martini",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -29,7 +28,6 @@
   {
     "name": "Bacardi",
     "glass": "martini",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -56,7 +54,6 @@
   {
     "name": "Negroni",
     "glass": "old-fashioned",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -107,7 +104,6 @@
   {
     "name": "Old Fashioned",
     "glass": "old-fashioned",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -137,7 +133,6 @@
   {
     "name": "Tuxedo",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -173,7 +168,6 @@
   {
     "name": "Mojito",
     "glass": "collins",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -208,7 +202,6 @@
   {
     "name": "Horse's Neck",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -235,7 +228,6 @@
   {
     "name": "Planter's Punch",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -282,7 +274,6 @@
   {
     "name": "Sea Breeze",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -309,7 +300,6 @@
   {
     "name": "Pisco Sour",
     "glass": "old-fashioned",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -340,7 +330,6 @@
   {
     "name": "Long Island Iced Tea",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -391,7 +380,6 @@
   {
     "name": "Clover Club",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -422,7 +410,6 @@
   {
     "name": "Angel Face",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -448,7 +435,6 @@
   {
     "name": "Mimosa",
     "glass": "champagne-flute",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -471,7 +457,6 @@
   {
     "name": "Whisky Sour",
     "glass": "old-fashioned",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -500,7 +485,6 @@
   {
     "name": "Screwdriver",
     "glass": "highball",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -522,7 +506,6 @@
   {
     "name": "Cuba Libre",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -550,7 +533,6 @@
   {
     "name": "Manhattan",
     "glass": "martini",
-    "category": "Before Dinner cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -578,7 +560,6 @@
   {
     "name": "Porto Flip",
     "glass": "martini",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -605,7 +586,6 @@
   {
     "name": "Gin Fizz",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -637,7 +617,6 @@
   {
     "name": "Espresso Martini",
     "glass": "martini",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -668,7 +647,6 @@
   {
     "name": "Margarita",
     "glass": "margarita",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -696,7 +674,6 @@
   {
     "name": "French 75",
     "glass": "champagne-tulip",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -727,7 +704,6 @@
   {
     "name": "Yellow Bird",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -758,7 +734,6 @@
   {
     "name": "Pina Colada",
     "glass": "hurricane",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -786,7 +761,6 @@
   {
     "name": "Aviation",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -813,7 +787,6 @@
   {
     "name": "Bellini",
     "glass": "champagne-flute",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -835,7 +808,6 @@
   {
     "name": "Grasshopper",
     "glass": "martini",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -861,7 +833,6 @@
   {
     "name": "Tequila Sunrise",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -889,7 +860,6 @@
   {
     "name": "Daiquiri",
     "glass": "martini",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -915,7 +885,6 @@
   {
     "name": "Rusty Nail",
     "glass": "old-fashioned",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -938,7 +907,6 @@
   {
     "name": "B52",
     "glass": "shot",
-    "category": "After Dinner",
     "ingredients": [
       {
         "unit": "cl",
@@ -969,7 +937,6 @@
   {
     "name": "Stinger",
     "glass": "martini",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -990,7 +957,6 @@
   {
     "name": "Golden Dream",
     "glass": "martini",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1042,7 +1008,6 @@
   {
     "name": "Spritz Veneziano",
     "glass": "old-fashioned",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1068,7 +1033,6 @@
   {
     "name": "Bramble",
     "glass": "old-fashioned",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1123,7 +1087,6 @@
   {
     "name": "Lemon Drop Martini",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1151,7 +1114,6 @@
   {
     "name": "French Martini",
     "glass": "martini",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1177,28 +1139,52 @@
   {
     "name": "Black Russian",
     "glass": "old-fashioned",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
-        "unit": "cl",
-        "amount": 5,
+        "unit": "ml",
+        "amount": 50,
         "ingredient": "Vodka"
       },
       {
-        "unit": "cl",
-        "amount": 2,
+        "unit": "ml",
+        "amount": 25,
         "ingredient": "Coffee Liqueur"
       }
     ],
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently. Note: for White Russian, float fresh cream on the top and stir gently.",
     "tags": [
-      "afterdinner"
+      "afterdinner",
+      "winter"
+    ]
+  },
+  {
+    "name": "White Russian",
+    "glass": "old-fashioned",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": 50,
+        "ingredient": "Vodka"
+      },
+      {
+        "unit": "ml",
+        "amount": 25,
+        "ingredient": "Coffee Liqueur"
+      },
+      {
+        "amount": "1 dash",
+        "ingredient": "Cream"
+      }
+    ],
+    "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently. Float fresh cream on the top and stir gently.",
+    "tags": [
+      "afterdinner",
+      "winter"
     ]
   },
   {
     "name": "Bloody Mary",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1240,7 +1226,6 @@
   {
     "name": "Mai-tai",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1279,7 +1264,6 @@
   {
     "name": "Barracuda",
     "glass": "margarita",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1315,7 +1299,6 @@
   {
     "name": "Sex on the Beach",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1348,7 +1331,6 @@
   {
     "name": "Monkey Gland",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1377,7 +1359,6 @@
   {
     "name": "Derby",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1403,7 +1384,6 @@
   {
     "name": "Sidecar",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1429,7 +1409,6 @@
   {
     "name": "Irish Coffee",
     "glass": "hot-drink",
-    "category": "Hot Drink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1462,7 +1441,6 @@
   {
     "name": "Sazerac",
     "glass": "old-fashioned",
-    "category": "After Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1492,7 +1470,6 @@
   {
     "name": "Americano",
     "glass": "old-fashioned",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1519,7 +1496,6 @@
   {
     "name": "Singapore Sling",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1590,7 +1566,6 @@
   {
     "name": "Moscow Mule",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1621,7 +1596,6 @@
   {
     "name": "John Collins",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1653,7 +1627,6 @@
   {
     "name": "Kir",
     "glass": "white-wine",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1677,7 +1650,6 @@
   {
     "name": "Kir Royal",
     "glass": "champagne",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1703,7 +1675,6 @@
   {
     "name": "Mint Julep",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1733,7 +1704,6 @@
   {
     "name": "Tommy's Margarita",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1759,7 +1729,6 @@
   {
     "name": "Paradise",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1785,7 +1754,6 @@
   {
     "name": "Dirty Martini",
     "glass": "martini",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1813,7 +1781,6 @@
   {
     "name": "Champagne Cocktail",
     "glass": "champagne-flute",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1844,7 +1811,6 @@
   {
     "name": "Mary Pickford",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1876,7 +1842,6 @@
   {
     "name": "Hemingway Special",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -1908,7 +1873,6 @@
   {
     "name": "Dark 'n' Stormy",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1930,7 +1894,6 @@
   {
     "name": "Ramos Gin Fizz",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -1982,7 +1945,6 @@
   {
     "name": "Russian Spring Punch",
     "glass": "highball",
-    "category": "Sparkling Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2036,7 +1998,6 @@
   {
     "name": "Cosmopolitan",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2070,7 +2031,6 @@
   {
     "name": "Dry Martini",
     "glass": "martini",
-    "category": "Before Dinner Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2092,7 +2052,6 @@
   {
     "name": "Between the Sheets",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2123,7 +2082,6 @@
   {
     "name": "Casino",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2157,7 +2115,6 @@
   {
     "name": "Caipirinha",
     "glass": "old-fashioned",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2235,7 +2192,6 @@
   {
     "name": "Kamikaze",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2261,7 +2217,6 @@
   {
     "name": "White Lady",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2287,7 +2242,6 @@
   {
     "name": "Harvey Wallbanger",
     "glass": "highball",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -2314,7 +2268,6 @@
   {
     "name": "Zombie Punch",
     "glass": "bowl",
-    "category": "Punch",
     "ingredients": [
       {
         "unit": "cl",
@@ -2388,7 +2341,6 @@
   {
     "name": "Witchcraft",
     "glass": "highball",
-    "category": "Punch",
     "ingredients": [
       {
         "unit": "ml",
@@ -2427,7 +2379,6 @@
   {
     "name": "Skull Punch",
     "glass": "bowl",
-    "category": "Mocktail",
     "ingredients": [
       {
         "unit": "medium-sized",
@@ -2485,7 +2436,6 @@
   {
     "name": "Halloween Mocktail Punch",
     "glass": "bowl",
-    "category": "Punch",
     "ingredients": [
       {
         "unit": "cl",
@@ -2515,7 +2465,6 @@
   {
     "name": "Halloween Punch",
     "glass": "bowl",
-    "category": "Punch",
     "ingredients": [
       {
         "unit": "cl",
@@ -2548,7 +2497,6 @@
   {
     "name": "Bewitched",
     "glass": "flute",
-    "category": "Punch",
     "ingredients": [
       {
         "unit": "ml",
@@ -2604,7 +2552,6 @@
   {
     "name": "Batida",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2642,7 +2589,6 @@
   {
     "name": "57 T-Bird",
     "glass": "old-fashioned",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2679,7 +2625,6 @@
   {
     "name": "Aqueduct",
     "glass": "martini",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2710,7 +2655,6 @@
   {
     "name": "Tom Collins",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -2743,7 +2687,6 @@
   {
     "name": "Gin and Tonic",
     "glass": "highball",
-    "category": "Longdrink",
     "ingredients": [
       {
         "unit": "cl",
@@ -2767,7 +2710,6 @@
   {
     "name": "Leite de Onça",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2801,7 +2743,6 @@
   {
     "name": "Hot Apple Pie",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2826,7 +2767,6 @@
   {
     "name": "Pumpkin Martini",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2855,7 +2795,6 @@
   {
     "name": "Hunter's Cocktail",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2877,7 +2816,6 @@
   {
     "name": "Ulanda",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "dash",
@@ -2903,7 +2841,6 @@
   {
     "name": "Roughneck",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2935,7 +2872,6 @@
   {
     "name": "Broadway",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -2968,7 +2904,6 @@
   {
     "name": "Linstead",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "dash",
@@ -2996,7 +2931,6 @@
   {
     "name": "Bering Sea",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "dash",
@@ -3030,7 +2964,6 @@
   {
     "name": "Mulled Wine",
     "glass": "zombie-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "cl",
@@ -3069,7 +3002,6 @@
   {
     "name": "Electric Iced Tea",
     "glass": "collins-glass",
-    "category": "All Day Cocktail",
     "ingredients": [
       {
         "unit": "ml",
@@ -3108,6 +3040,34 @@
     "tags": [
       "summer",
       "longdrink"
+    ]
+  },
+  {
+    "name": "Peppermint Chocolate Martini",
+    "glass": "collins-glass",
+    "ingredients": [
+      {
+        "unit": "ml",
+        "amount": "25",
+        "ingredient": "Chocolate Liqueur"
+      },
+      {
+        "unit": "ml",
+        "amount": "12.5",
+        "ingredient": "Peppermint Liqueur"
+      },
+      {
+        "unit": "ml",
+        "amount": "175",
+        "ingredient": "Chocolate Milk"
+      }
+    ],
+    "garnish": "Crushed peppermint or candy canes",
+    "preparation": "Pour the chocolate milk into a martini shaker. Add the liqueurs and shake to combine. (Stirring also works.) Pour into a glass and serve.",
+    "tags": [
+      "winter",
+      "christmas",
+      "chocolate"
     ]
   }
 ]
