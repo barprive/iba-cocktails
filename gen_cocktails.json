@@ -1091,7 +1091,9 @@
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
   "id": 36,
   "slug": "god-mother",
-  "tags": []
+  "tags": [
+   "autumn"
+  ]
  },
  {
   "name": "Spritz Veneziano",
@@ -2117,14 +2119,14 @@
   "glass": "old-fashioned",
   "ingredients": [
    {
-    "unit": "cl",
-    "amount": 3.5,
+    "unit": "ml",
+    "amount": 35,
     "label": "Scotch Whisky",
     "id": 13
    },
    {
-    "unit": "cl",
-    "amount": 3.5,
+    "unit": "ml",
+    "amount": 35,
     "label": "Disaronno",
     "id": 123
    }
@@ -2132,7 +2134,9 @@
   "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
   "id": 69,
   "slug": "god-father",
-  "tags": []
+  "tags": [
+   "autumn"
+  ]
  },
  {
   "name": "Cosmopolitan",
@@ -3021,31 +3025,6 @@
   "slug": "hunters-cocktail"
  },
  {
-  "name": "Godfather",
-  "glass": "zombie-glass",
-  "category": "All Day Cocktail",
-  "ingredients": [
-   {
-    "unit": "ml",
-    "amount": "37.5",
-    "label": "Scotch Whisky",
-    "id": 13
-   },
-   {
-    "unit": "ml",
-    "amount": "12.5",
-    "id": 123
-   }
-  ],
-  "garnish": "Lime wedge",
-  "preparation": "Build the ingredients in an old-fashioned glass with ice cubes. Stir well.",
-  "tags": [
-   "autumn"
-  ],
-  "id": 94,
-  "slug": "godfather"
- },
- {
   "name": "Ulanda",
   "glass": "zombie-glass",
   "category": "All Day Cocktail",
@@ -3053,7 +3032,7 @@
    {
     "unit": "dash",
     "amount": "1",
-    "id": 357
+    "id": 355
    },
    {
     "unit": "ml",
@@ -3070,7 +3049,7 @@
   "tags": [
    "pastis"
   ],
-  "id": 95,
+  "id": 94,
   "slug": "ulanda"
  },
  {
@@ -3087,7 +3066,7 @@
    {
     "unit": "dash",
     "amount": "1",
-    "id": 357
+    "id": 355
    },
    {
     "unit": "ml",
@@ -3104,7 +3083,7 @@
   "tags": [
    "pastis"
   ],
-  "id": 96,
+  "id": 95,
   "slug": "roughneck"
  },
  {
@@ -3126,7 +3105,7 @@
    {
     "unit": "dash",
     "amount": "1",
-    "id": 357
+    "id": 355
    },
    {
     "unit": "ml",
@@ -3139,7 +3118,7 @@
   "tags": [
    "pastis"
   ],
-  "id": 97,
+  "id": 96,
   "slug": "broadway"
  },
  {
@@ -3150,7 +3129,7 @@
    {
     "unit": "dash",
     "amount": "1",
-    "id": 357
+    "id": 355
    },
    {
     "unit": "ml",
@@ -3169,7 +3148,7 @@
   "tags": [
    "pastis"
   ],
-  "id": 98,
+  "id": 97,
   "slug": "linstead"
  },
  {
@@ -3180,7 +3159,7 @@
    {
     "unit": "dash",
     "amount": "1",
-    "id": 357
+    "id": 355
    },
    {
     "unit": "ml",
@@ -3197,7 +3176,7 @@
    {
     "unit": "ml",
     "amount": "12.5",
-    "id": 374
+    "id": 372
    }
   ],
   "garnish": "Maraschino berry or cherry",
@@ -3205,7 +3184,7 @@
   "tags": [
    "pastis"
   ],
-  "id": 99,
+  "id": 98,
   "slug": "bering-sea"
  },
  {
@@ -3216,7 +3195,7 @@
    {
     "unit": "cl",
     "amount": "150",
-    "id": 375
+    "id": 373
    },
    {
     "amount": "4",
@@ -3226,16 +3205,16 @@
    {
     "amount": "2",
     "label": "Large Oranges",
-    "id": 377
+    "id": 375
    },
    {
     "amount": "16",
-    "id": 378
+    "id": 376
    },
    {
     "unit": "g",
     "amount": "150",
-    "id": 379
+    "id": 377
    }
   ],
   "garnish": "Lemon and orange slices",
@@ -3245,7 +3224,7 @@
    "winter",
    "hot"
   ],
-  "id": 100,
+  "id": 99,
   "slug": "mulled-wine"
  }
 ]

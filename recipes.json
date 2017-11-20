@@ -1091,7 +1091,9 @@
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
     "id": 36,
     "slug": "god-mother",
-    "tags": []
+    "tags": [
+      "autumn"
+    ]
   },
   {
     "name": "Spritz Veneziano",
@@ -2117,14 +2119,14 @@
     "glass": "old-fashioned",
     "ingredients": [
       {
-        "unit": "cl",
-        "amount": 3.5,
+        "unit": "ml",
+        "amount": 35,
         "ingredient": "Whisky",
         "label": "Scotch Whisky"
       },
       {
-        "unit": "cl",
-        "amount": 3.5,
+        "unit": "ml",
+        "amount": 35,
         "ingredient": "Amaretto",
         "label": "Disaronno"
       }
@@ -2132,7 +2134,9 @@
     "preparation": "Build into old fashioned glass filled with ice cubes. Stir gently.",
     "id": 68,
     "slug": "god-father",
-    "tags": []
+    "tags": [
+      "autumn"
+    ]
   },
   {
     "name": "Cosmopolitan",
@@ -3008,29 +3012,6 @@
     ],
     "garnish": "Cherry",
     "preparation": "Pour the whiskey and cherry brandy into an old-fashioned glass with ice. Stir well. Garnish with a cherry.",
-    "tags": [
-      "autumn"
-    ]
-  },
-  {
-    "name": "Godfather",
-    "glass": "zombie-glass",
-    "category": "All Day Cocktail",
-    "ingredients": [
-      {
-        "unit": "ml",
-        "amount": "37.5",
-        "ingredient": "Whisky",
-        "label": "Scotch Whisky"
-      },
-      {
-        "unit": "ml",
-        "amount": "12.5",
-        "ingredient": "Amaretto"
-      }
-    ],
-    "garnish": "Lime wedge",
-    "preparation": "Build the ingredients in an old-fashioned glass with ice cubes. Stir well.",
     "tags": [
       "autumn"
     ]
