@@ -15,13 +15,13 @@
   "name": "punch"
  },
  {
-  "name": "festive"
- },
- {
   "name": "champagne"
  },
  {
   "name": "autumn"
+ },
+ {
+  "name": "christmas"
  },
  {
   "name": "afterdinner"
@@ -31,6 +31,12 @@
  },
  {
   "name": "sparkling"
+ },
+ {
+  "name": "spring"
+ },
+ {
+  "name": "festive"
  },
  {
   "name": "prosecco"
@@ -54,9 +60,6 @@
   "name": "kir"
  },
  {
-  "name": "spring"
- },
- {
   "name": "brazilian"
  },
  {
@@ -72,9 +75,9 @@
   "name": "pastis"
  },
  {
-  "name": "christmas"
+  "name": "chocolate"
  },
  {
-  "name": "chocolate"
+  "name": "liqueur"
  }
 ]

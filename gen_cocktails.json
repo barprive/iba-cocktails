@@ -478,7 +478,6 @@
   "garnish": "Optional orange twist",
   "preparation": "Pour orange juice into flute and gently pour Champagne. Stir gently. Note: a Buck’s Fizz and a Mimosa are the same drink.",
   "tags": [
-   "festive",
    "champagne"
   ],
   "id": 15,
@@ -590,7 +589,8 @@
   "garnish": "Cherry",
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass.",
   "tags": [
-   "beforedinner"
+   "beforedinner",
+   "christmas"
   ],
   "id": 19,
   "slug": "manhattan"
@@ -744,7 +744,9 @@
   "preparation": "Shake with ice cubes, except for champagne. Strain into a champagne flute. Top up with champagne. Stir gently.",
   "tags": [
    "sparkling",
-   "champagne"
+   "champagne",
+   "spring",
+   "festive"
   ],
   "id": 24,
   "slug": "french-75"
@@ -1099,7 +1101,9 @@
   "garnish": "Half an orange slice",
   "preparation": "Build into an old-fashioned glass filled with ice. Top with a splash of soda water.",
   "tags": [
-   "sparkling"
+   "sparkling",
+   "spring",
+   "summer"
   ],
   "id": 37,
   "slug": "spritz-veneziano"
@@ -1361,6 +1365,10 @@
     "id": 157
    },
    {
+    "amount": "Top with",
+    "id": 100
+   },
+   {
     "unit": "cl",
     "amount": 1.5,
     "id": 91
@@ -1373,10 +1381,6 @@
    {
     "amount": "1 dash",
     "id": 5
-   },
-   {
-    "amount": "Top with",
-    "id": 100
    }
   ],
   "garnish": "Cocktail cherry",
@@ -1931,7 +1935,8 @@
   "preparation": "Add dash of Angostura bitter onto sugar cube and drop it into champagne flute. Add cognac followed by pouring gently chilled champagne.",
   "tags": [
    "sparkling",
-   "champagne"
+   "champagne",
+   "festive"
   ],
   "id": 64,
   "slug": "champagne-cocktail"
@@ -3273,5 +3278,35 @@
   ],
   "id": 102,
   "slug": "peppermint-chocolate-martini"
+ },
+ {
+  "name": "Limoncello",
+  "glass": "shot-glass",
+  "ingredients": [
+   {
+    "unit": "ml",
+    "amount": "500",
+    "label": "60% Vodka",
+    "id": 2
+   },
+   {
+    "unit": "ml",
+    "amount": "500",
+    "id": 35
+   },
+   {
+    "amount": "4",
+    "label": "Organic Lemons",
+    "id": 296
+   }
+  ],
+  "preparation": "<p>This recipe will make 1 litre of Limoncello.</p><p>Peel the lemons and place all the lemon peels in a jar. Pour the vodka into that jar along with the lemon peels. Let it rest for a week at room temperature.</p><p>If you want to make a homemade sugar syrup, follow this step. To do so, bring 500ml of water to the boil, add the sugar and simmer and stir until all the sugar is diluted in the water. This should take 5 to 10 minutes. Let it chill to room temperature.</p>Filter the lemon peels out of the vodka and pour the vodka in the syrup. Stir it and let it rest for a week.</p><p>Bottle it up and keep in the refrigerator. Serve cold in a shot glass.</p>",
+  "tags": [
+   "winter",
+   "christmas",
+   "liqueur"
+  ],
+  "id": 103,
+  "slug": "limoncello"
  }
 ]
