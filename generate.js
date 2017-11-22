@@ -20,7 +20,6 @@ const ingredients_dest = "gen_ingredients.json"
 const categories_dest = "gen_categories.json"
 const algolia_recipes_dest = "gen_algolia_cocktails.json"
 const algolia_ingredients_dest = "gen_algolia_ingredients.json"
-const algolia_tags_dest = "gen_algolia_tags.json"
 const algolia_categories_dest = "gen_algolia_categories.json"
 
 //// Variables for both generated dictionaries of recipes and ingredients
@@ -29,7 +28,6 @@ var gen_ingredients;
 var gen_categories;
 var gen_algolia_recipes;
 var gen_algolia_ingredients;
-var gen_algolia_tags;
 var gen_algolia_categories;
 
 //// Go get all the ingredients in the JSON recipes
@@ -103,23 +101,6 @@ gen_algolia_ingredients = _.map(gen_ingredients, ingredient => {
   return algolia_ingredient;
 });
 
-//// Get subset from cocktails attributes for tags in Algolia
-gen_algolia_tags = [];
-// Parse every recipe
-_.each(recipes, recipe => {
-  recipe_duplicate = _.cloneDeep(recipe);
-  tags = recipe_duplicate.tags;
-  // Parse every tag in recipe
-  tags.forEach(tag => {
-    var gen_tag = {"name": tag};
-    // Push ingredient found in list of ingredients
-    gen_algolia_tags.push(gen_tag);
-  });
-});
-
-//// Sort tags so they are unique
-gen_algolia_tags = _.uniqBy(gen_algolia_tags, "name");
-
 //// Copy categories into generated file
 var i = 1;
 gen_categories = _.map(categories, category => {
@@ -173,10 +154,6 @@ fs.writeFile(algolia_recipes_dest, JSON.stringify(gen_algolia_recipes, null, " "
 fs.writeFile(algolia_ingredients_dest, JSON.stringify(gen_algolia_ingredients, null, " "), err => {
   if (err) throw err;
   console.log('Ingredients for Algolia generated in '+algolia_ingredients_dest);
-});
-fs.writeFile(algolia_tags_dest, JSON.stringify(gen_algolia_tags, null, " "), err => {
-  if (err) throw err;
-  console.log('Tags for Algolia generated in '+algolia_tags_dest);
 });
 fs.writeFile(algolia_categories_dest, JSON.stringify(gen_algolia_categories, null, " "), err => {
   if (err) throw err;
