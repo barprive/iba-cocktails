@@ -1,458 +1,572 @@
 [
  {
   "name": "Absinthe",
-  "id": 20
+  "id": 20,
+  "slug": "absinthe"
  },
  {
   "name": "Agave Nectar",
-  "id": 215
+  "id": 215,
+  "slug": "agave-nectar"
  },
  {
   "name": "Amaretto",
-  "id": 123
+  "id": 123,
+  "slug": "amaretto"
  },
  {
   "name": "Angostura Bitters",
-  "id": 14
+  "id": 14,
+  "slug": "angostura-bitters"
  },
  {
   "name": "Aperol",
-  "id": 125
+  "id": 125,
+  "slug": "aperol"
  },
  {
   "name": "Apple Cider",
-  "id": 352
+  "id": 352,
+  "slug": "apple-cider"
  },
  {
   "name": "Apple Juice",
-  "id": 303
+  "id": 303,
+  "slug": "apple-juice"
  },
  {
   "name": "Apricot Brandy",
-  "id": 57
+  "id": 57,
+  "slug": "apricot-brandy"
  },
  {
   "name": "Black Vodka",
-  "id": 299
+  "id": 299,
+  "slug": "black-vodka"
  },
  {
   "name": "Blackberry Liqueur",
-  "id": 130
+  "id": 130,
+  "slug": "blackberry-liqueur"
  },
  {
   "name": "Brandy",
-  "id": 351
+  "id": 351,
+  "slug": "brandy"
  },
  {
   "name": "Brown Sugar",
-  "id": 179
+  "id": 179,
+  "slug": "brown-sugar"
  },
  {
   "name": "Cachaça",
-  "id": 265
+  "id": 265,
+  "slug": "cachaca"
  },
  {
   "name": "Calvados",
-  "id": 58
+  "id": 58,
+  "slug": "calvados"
  },
  {
   "name": "Campari",
-  "id": 8
+  "id": 8,
+  "slug": "campari"
  },
  {
   "name": "Caster Sugar",
-  "id": 380
+  "id": 380,
+  "slug": "caster-sugar"
  },
  {
   "name": "Celery Salt",
-  "id": 150
+  "id": 150,
+  "slug": "celery-salt"
  },
  {
   "name": "Champagne",
-  "id": 59
+  "id": 59,
+  "slug": "champagne"
  },
  {
   "name": "Cherry Brandy",
-  "id": 357
+  "id": 357,
+  "slug": "cherry-brandy"
  },
  {
   "name": "Cherry Liqueur",
-  "id": 98
+  "id": 98,
+  "slug": "cherry-liqueur"
  },
  {
   "name": "Chocolate Liqueur",
-  "id": 387
+  "id": 387,
+  "slug": "chocolate-liqueur"
  },
  {
   "name": "Chocolate Milk",
-  "id": 389
+  "id": 389,
+  "slug": "chocolate-milk"
  },
  {
   "name": "Clear Honey",
-  "id": 307
+  "id": 307,
+  "slug": "clear-honey"
  },
  {
   "name": "Clove",
-  "id": 379
+  "id": 379,
+  "slug": "clove"
  },
  {
   "name": "Cocoa Liqueur",
-  "id": 348
+  "id": 348,
+  "slug": "cocoa-liqueur"
  },
  {
   "name": "Coconut Milk",
-  "id": 96
+  "id": 96,
+  "slug": "coconut-milk"
  },
  {
   "name": "Coconut Water",
-  "id": 328
+  "id": 328,
+  "slug": "coconut-water"
  },
  {
   "name": "Coffee",
-  "id": 82
+  "id": 82,
+  "slug": "coffee"
  },
  {
   "name": "Coffee Liqueur",
-  "id": 80
+  "id": 80,
+  "slug": "coffee-liqueur"
  },
  {
   "name": "Cognac",
-  "id": 27
+  "id": 27,
+  "slug": "cognac"
  },
  {
   "name": "Cola",
-  "id": 51
+  "id": 51,
+  "slug": "cola"
  },
  {
   "name": "Condensed Milk",
-  "id": 329
+  "id": 329,
+  "slug": "condensed-milk"
  },
  {
   "name": "Cranberry Juice",
-  "id": 38
+  "id": 38,
+  "slug": "cranberry-juice"
  },
  {
   "name": "Cream",
-  "id": 104
+  "id": 104,
+  "slug": "cream"
  },
  {
   "name": "Cream Liqueur",
-  "id": 114
+  "id": 114,
+  "slug": "cream-liqueur"
  },
  {
   "name": "Créme de Cacao Liqueur",
-  "id": 102
+  "id": 102,
+  "slug": "creme-de-cacao-liqueur"
  },
  {
   "name": "Créme de Cassis Liqueur",
-  "id": 206
+  "id": 206,
+  "slug": "creme-de-cassis-liqueur"
  },
  {
   "name": "Créme de Menthe Liqueur",
-  "id": 103
+  "id": 103,
+  "slug": "creme-de-menthe-liqueur"
  },
  {
   "name": "DOM Bénédictine",
-  "id": 190
+  "id": 190,
+  "slug": "dom-benedictine"
  },
  {
   "name": "Dark Rum",
-  "id": 30
+  "id": 30,
+  "slug": "dark-rum"
  },
  {
   "name": "Demerara Rum",
-  "id": 288
+  "id": 288,
+  "slug": "demerara-rum"
  },
  {
   "name": "Drambuie",
-  "id": 112
+  "id": 112,
+  "slug": "drambuie"
  },
  {
   "name": "Egg",
-  "id": 43
+  "id": 43,
+  "slug": "egg"
  },
  {
   "name": "Egg White",
-  "id": 375
+  "id": 375,
+  "slug": "egg-white"
  },
  {
   "name": "Galliano",
-  "id": 91
+  "id": 91,
+  "slug": "galliano"
  },
  {
   "name": "Gin",
-  "id": 1
+  "id": 1,
+  "slug": "gin"
  },
  {
   "name": "Ginger Ale",
-  "id": 28
+  "id": 28,
+  "slug": "ginger-ale"
  },
  {
   "name": "Ginger Beer",
-  "id": 198
+  "id": 198,
+  "slug": "ginger-beer"
  },
  {
   "name": "Gold Rum",
-  "id": 157
+  "id": 157,
+  "slug": "gold-rum"
  },
  {
   "name": "Gomme Syrup",
-  "id": 50
+  "id": 50,
+  "slug": "gomme-syrup"
  },
  {
   "name": "Grapefruit Juice",
-  "id": 39
+  "id": 39,
+  "slug": "grapefruit-juice"
  },
  {
   "name": "Grenadine Syrup",
-  "id": 6
+  "id": 6,
+  "slug": "grenadine-syrup"
  },
  {
   "name": "Ground Allspice",
-  "id": 306
+  "id": 306,
+  "slug": "ground-allspice"
  },
  {
   "name": "Herb Liqueur",
-  "id": 325
+  "id": 325,
+  "slug": "herb-liqueur"
  },
  {
   "name": "Honey",
-  "id": 272
+  "id": 272,
+  "slug": "honey"
  },
  {
   "name": "Hot Coffee",
-  "id": 177
+  "id": 177,
+  "slug": "hot-coffee"
  },
  {
   "name": "Kirsch",
-  "id": 10
+  "id": 10,
+  "slug": "kirsch"
  },
  {
   "name": "Lemon",
-  "id": 296
+  "id": 296,
+  "slug": "lemon"
  },
  {
   "name": "Lemon Juice",
-  "id": 33
+  "id": 33,
+  "slug": "lemon-juice"
  },
  {
   "name": "Lemonade",
-  "id": 311
+  "id": 311,
+  "slug": "lemonade"
  },
  {
   "name": "Lillet Blonde",
-  "id": 3
+  "id": 3,
+  "slug": "lillet-blonde"
  },
  {
   "name": "Lime",
-  "id": 200
+  "id": 200,
+  "slug": "lime"
  },
  {
   "name": "Lime Juice",
-  "id": 5
+  "id": 5,
+  "slug": "lime-juice"
  },
  {
   "name": "Maraschino",
-  "id": 19
+  "id": 19,
+  "slug": "maraschino"
  },
  {
   "name": "Melon Liqueur",
-  "id": 334
+  "id": 334,
+  "slug": "melon-liqueur"
  },
  {
   "name": "Milk",
-  "id": 349
+  "id": 349,
+  "slug": "milk"
  },
  {
   "name": "Mint",
-  "id": 24
+  "id": 24,
+  "slug": "mint"
  },
  {
   "name": "Olive Juice",
-  "id": 221
+  "id": 221,
+  "slug": "olive-juice"
  },
  {
   "name": "Onion",
-  "id": 273
+  "id": 273,
+  "slug": "onion"
  },
  {
   "name": "Orange",
-  "id": 378
+  "id": 378,
+  "slug": "orange"
  },
  {
   "name": "Orange Bitters",
-  "id": 21
+  "id": 21,
+  "slug": "orange-bitters"
  },
  {
   "name": "Orange Flower Water",
-  "id": 242
+  "id": 242,
+  "slug": "orange-flower-water"
  },
  {
   "name": "Orange Juice",
-  "id": 31
+  "id": 31,
+  "slug": "orange-juice"
  },
  {
   "name": "Orgeat Syrup",
-  "id": 155
+  "id": 155,
+  "slug": "orgeat-syrup"
  },
  {
   "name": "Passion Fruit Syrup",
-  "id": 293
+  "id": 293,
+  "slug": "passion-fruit-syrup"
  },
  {
   "name": "Pastis",
-  "id": 358
+  "id": 358,
+  "slug": "pastis"
  },
  {
   "name": "Peach Bitters",
-  "id": 171
+  "id": 171,
+  "slug": "peach-bitters"
  },
  {
   "name": "Peach Puree",
-  "id": 101
+  "id": 101,
+  "slug": "peach-puree"
  },
  {
   "name": "Peach Schnapps",
-  "id": 163
+  "id": 163,
+  "slug": "peach-schnapps"
  },
  {
   "name": "Pepper",
-  "id": 151
+  "id": 151,
+  "slug": "pepper"
  },
  {
   "name": "Peppermint Liqueur",
-  "id": 388
+  "id": 388,
+  "slug": "peppermint-liqueur"
  },
  {
   "name": "Peychaud's Bitters",
-  "id": 183
+  "id": 183,
+  "slug": "peychauds-bitters"
  },
  {
   "name": "Pineapple",
-  "id": 295
+  "id": 295,
+  "slug": "pineapple"
  },
  {
   "name": "Pineapple Juice",
-  "id": 32
+  "id": 32,
+  "slug": "pineapple-juice"
  },
  {
   "name": "Pisco",
-  "id": 40
+  "id": 40,
+  "slug": "pisco"
  },
  {
   "name": "Plain Water",
-  "id": 16
+  "id": 16,
+  "slug": "plain-water"
  },
  {
   "name": "Powdered Sugar",
-  "id": 211
+  "id": 211,
+  "slug": "powdered-sugar"
  },
  {
   "name": "Prosecco",
-  "id": 100
+  "id": 100,
+  "slug": "prosecco"
  },
  {
   "name": "Pumpkin",
-  "id": 298
+  "id": 298,
+  "slug": "pumpkin"
  },
  {
   "name": "Pumpkin Liqueur",
-  "id": 355
+  "id": 355,
+  "slug": "pumpkin-liqueur"
  },
  {
   "name": "Raspberry Liqueur",
-  "id": 138
+  "id": 138,
+  "slug": "raspberry-liqueur"
  },
  {
   "name": "Raspberry Syrup",
-  "id": 53
+  "id": 53,
+  "slug": "raspberry-syrup"
  },
  {
   "name": "Red Hot Chili Peppers",
-  "id": 274
+  "id": 274,
+  "slug": "red-hot-chili-peppers"
  },
  {
   "name": "Red Port",
-  "id": 73
+  "id": 73,
+  "slug": "red-port"
  },
  {
   "name": "Red Wine",
-  "id": 376
+  "id": 376,
+  "slug": "red-wine"
  },
  {
   "name": "Salt",
-  "id": 276
+  "id": 276,
+  "slug": "salt"
  },
  {
   "name": "Soda Water",
-  "id": 26
+  "id": 26,
+  "slug": "soda-water"
  },
  {
   "name": "Spiced Pumpkin Puree",
-  "id": 308
+  "id": 308,
+  "slug": "spiced-pumpkin-puree"
  },
  {
   "name": "Strawberry Syrup",
-  "id": 12
+  "id": 12,
+  "slug": "strawberry-syrup"
  },
  {
   "name": "Sugar Syrup",
-  "id": 35
+  "id": 35,
+  "slug": "sugar-syrup"
  },
  {
   "name": "Tabasco",
-  "id": 149
+  "id": 149,
+  "slug": "tabasco"
  },
  {
   "name": "Tequila",
-  "id": 44
+  "id": 44,
+  "slug": "tequila"
  },
  {
   "name": "Tomato Juice",
-  "id": 146
+  "id": 146,
+  "slug": "tomato-juice"
  },
  {
   "name": "Tonic Water",
-  "id": 346
+  "id": 346,
+  "slug": "tonic-water"
  },
  {
   "name": "Triple Sec",
-  "id": 47
+  "id": 47,
+  "slug": "triple-sec"
  },
  {
   "name": "Vanilla Extract",
-  "id": 243
+  "id": 243,
+  "slug": "vanilla-extract"
  },
  {
   "name": "Vanilla Vodka",
-  "id": 354
+  "id": 354,
+  "slug": "vanilla-vodka"
  },
  {
   "name": "Vermouth",
-  "id": 9
+  "id": 9,
+  "slug": "vermouth"
  },
  {
   "name": "Vodka",
-  "id": 2
+  "id": 2,
+  "slug": "vodka"
  },
  {
   "name": "Whisky",
-  "id": 13
+  "id": 13,
+  "slug": "whisky"
  },
  {
   "name": "White Rum",
-  "id": 4
+  "id": 4,
+  "slug": "white-rum"
  },
  {
   "name": "White Sugar",
-  "id": 15
+  "id": 15,
+  "slug": "white-sugar"
  },
  {
   "name": "White Wine",
-  "id": 205
+  "id": 205,
+  "slug": "white-wine"
  },
  {
   "name": "Worcestershire Sauce",
-  "id": 148
+  "id": 148,
+  "slug": "worcestershire-sauce"
  }
 ]

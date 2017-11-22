@@ -48,6 +48,13 @@ _.each(recipes, recipe => {
 //// Sort ingredients so they are unique
 gen_ingredients = _.uniqBy(gen_ingredients, "name");
 
+//// Create slug for every ingredient
+gen_ingredients = _.map(gen_ingredients, ingredient => {
+  ingredient_duplicate = _.cloneDeep(ingredient);
+  ingredient_duplicate.slug = removeAccents.remove(ingredient_duplicate.name).toLowerCase().replace(/ /g, "-").replace(/'/g, "").replace(/"/g, "");
+  return ingredient_duplicate;
+});
+
 //// Sort ingredients by name
 gen_ingredients = _.sortBy(gen_ingredients, [function(ing) { return ing.name; }]);
 
