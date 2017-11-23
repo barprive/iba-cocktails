@@ -1953,30 +1953,37 @@
     "glass": "highball",
     "ingredients": [
       {
-        "unit": "cl",
-        "amount": 2.5,
+        "unit": "ml",
+        "amount": 25,
         "ingredient": "Vodka"
       },
       {
-        "unit": "cl",
-        "amount": 2.5,
-        "ingredient": "Lemon Juice"
-      },
-      {
-        "unit": "cl",
-        "amount": 1.5,
+        "unit": "ml",
+        "amount": 15,
         "ingredient": "Créme de Cassis Liqueur"
       },
       {
-        "unit": "cl",
-        "amount": 1,
+        "unit": "ml",
+        "amount": 15,
+        "ingredient": "Prosecco",
+        "label": "Champagne or Prosecco"
+      },
+      {
+        "unit": "ml",
+        "amount": 25,
+        "ingredient": "Lemon Juice"
+      },
+      {
+        "unit": "ml",
+        "amount": 10,
         "ingredient": "Sugar Syrup"
       }
     ],
     "garnish": "Lemon slice and a blackberry",
-    "preparation": "Shake the ingredients and pour into highball glass. Top with Sparkling wine.",
+    "preparation": "Shake the ingredients and pour into highball glass filled with ice. Top with Sparkling wine.",
     "tags": [
-      "punch"
+      "punch",
+      "spring"
     ]
   },
   {
