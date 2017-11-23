@@ -62,5 +62,13 @@
     "tags": [
       "brazilian"
     ]
+  },
+  {
+    "name": "Thanksgiving",
+    "tags": [
+      "thanksgiving"
+    ],
+    "datestart": "1115",
+    "dateend": "1131"
   }
 ]
