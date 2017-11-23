@@ -38,5 +38,10 @@
   "name": "Brazilian",
   "slug": "brazilian",
   "id": 8
+ },
+ {
+  "name": "Thanksgiving",
+  "slug": "thanksgiving",
+  "id": 9
  }
 ]

@@ -22,7 +22,8 @@
   "garnish": "Lemon twist",
   "preparation": "Shake and strain into a chilled cocktail glass.",
   "tags": [
-   "beforedinner"
+   "beforedinner",
+   "thanksgiving"
   ],
   "id": 1,
   "slug": "vesper"
@@ -79,7 +80,8 @@
   "garnish": "Half an orange slice",
   "preparation": "Build into old-fashioned glass filled with ice. Stir gently.",
   "tags": [
-   "beforedinner"
+   "beforedinner",
+   "thanksgiving"
   ],
   "id": 3,
   "slug": "negroni"
@@ -312,7 +314,8 @@
   "garnish": "Lime wedge",
   "preparation": "Build all ingredients in a rock glass filled with ice.",
   "tags": [
-   "longdrink"
+   "longdrink",
+   "thanksgiving"
   ],
   "id": 10,
   "slug": "sea-breeze"
@@ -344,7 +347,8 @@
   ],
   "preparation": "Shake and strain into a chilled champagne flute. Dash some Angostura bitters on top.",
   "tags": [
-   "allday"
+   "allday",
+   "thanksgiving"
   ],
   "id": 11,
   "slug": "pisco-sour"
@@ -590,7 +594,8 @@
   "preparation": "Stir in mixing glass with ice cubes. Strain into chilled cocktail glass.",
   "tags": [
    "beforedinner",
-   "christmas"
+   "christmas",
+   "thanksgiving"
   ],
   "id": 19,
   "slug": "manhattan"
@@ -1505,7 +1510,8 @@
   ],
   "preparation": "Shake with ice cubes. Strain into cocktail glass.",
   "tags": [
-   "allday"
+   "allday",
+   "thanksgiving"
   ],
   "id": 50,
   "slug": "sidecar"
@@ -1570,7 +1576,8 @@
   "garnish": "Lemon twist",
   "preparation": "Rinse a chilled old-fashioned glass with the absinthe, add crushed ice and set it aside. Stir the remaining ingredients over ice and set it aside. Discard the ice and any excess absinthe from the prepared glass, and strain the drink into the glass. Note: The original recipe changed after the American Civil War, rye Whisky substituted cognac as it became hard to obtain.",
   "tags": [
-   "afterdinner"
+   "afterdinner",
+   "thanksgiving"
   ],
   "id": 52,
   "slug": "sazerac"
@@ -1598,7 +1605,8 @@
   "garnish": "Half an orange slice",
   "preparation": "Build into old fashioned glass filled with ice cubes. Add a splash of soda water.",
   "tags": [
-   "beforedinner"
+   "beforedinner",
+   "thanksgiving"
   ],
   "id": 53,
   "slug": "americano"
